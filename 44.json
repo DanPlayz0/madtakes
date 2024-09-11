@@ -1,0 +1,21 @@
+{
+  "inputs": [
+    "VERB",
+    "ADJECTIVE",
+    "VERB",
+    "NOUN (PLURAL)",
+    "WEAPON (PLURAL)",
+    "ADJECTIVE",
+    "NOUN",
+    "FOOD (PLURAL)",
+    "VERB",
+    "ADJECTIVE",
+    "NOUN",
+    "VERB",
+    "NOUN",
+    "VERB ENDING IN \"ED\"",
+    "NOUN",
+    "ADJECTIVE"
+  ],
+  "output": "To {{1}}, or not to {{1}},--that is the question:-- <br>Whether `tis more {{3}} in the mind to {{4}} <br>The {{5}} and {{6}} of {{7}} fortune <br>Or to take {{8}} against a sea of {{9}}, <br>And by opposing end them?--To die,--to {{10}},-- <br>No more; and by a {{10}} to say we end <br>The heartache, and the thousand {{12}} shocks <br>That flesh is heir to,--`tis a {{13}} <br>Devoutly to be wish`d. To die,--to {{14}};-- <br>To {{14}}! perchance to dream:--ay, there`s the {{16}}; <br>For in that {{14}} of death what dreams may come, <br>When we have {{18}} off this mortal {{19}}, <br>Must give us pause: there`s the respect <br>That makes calamity of so {{20}} life..."
+}

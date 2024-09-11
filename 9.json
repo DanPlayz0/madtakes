@@ -1,0 +1,20 @@
+{
+  "inputs": [
+    "NOUN",
+    "NUMBER",
+    "NOUN",
+    "NOUN",
+    "NOUN",
+    "VERB ENDING IN \"ED\"",
+    "VERB ENDING IN \"ING\"",
+    "BODY PART",
+    "PIECE OF ARMOR",
+    "ANIMAL (PLURAL)",
+    "VERB",
+    "SOUND",
+    "NOUN",
+    "VERB",
+    "NOUN (PLURAL)"
+  ],
+  "output": "In J.R.R. Tolkien`s famous trilogy, <i>Lord of the {{1}}s</i>, the second book is called <i>{{2}} Tower(s)</i>. During the course of this book, two stories are followed. The first is that of the {{3}}, the {{4}} and the {{5}} as they pursue the {{6}} Hobbits. Along the way, they get waylaid into {{7}} the people of Rohan, who are battling against the hordes sent by Saruman (identified by the white {{8}}). They eventually end up at {{9}}`s Deep, which they defend from the attacking {{10}}. The second story that is followed is that of Frodo and Sam as they {{11}} for a way into Mordor. Following them is {{12}}, a miserable {{13}} that is bound to the one {{1}}. They capture him and force him to {{15}} them to the {{16}} of Mordor. They abandon hopes of getting into Mordor there, so they look for another way in. Luckily {{12}} knows another way."
+}

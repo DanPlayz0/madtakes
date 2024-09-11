@@ -1,0 +1,22 @@
+{
+  "inputs": [
+    "NOUN",
+    "FAMOUS PERSON",
+    "MYTHICAL CREATURE",
+    "NOUN",
+    "VERB",
+    "VERB ENDING IN \"ED\"",
+    "FAMOUS PERSON",
+    "VERB ENDING IN \"ED\"",
+    "ADJECTIVE",
+    "NOUN (PLURAL)",
+    "FAMOUS PERSON",
+    "OCCUPATION",
+    "ADJECTIVE",
+    "ADVERB (ENDS IN \"LY\")",
+    "TYPE OF MATERIAL",
+    "OCCUPATION",
+    "ADJECTIVE"
+  ],
+  "output": "In his second term at Hogwarts School of {{1}} and Wizardry, Harry Potter ({{2}}) is warned by a/an {{3}} named Dobby that {{4}} will {{5}} when he returns to Hogwarts. Besides the fact that he is still {{6}} by Professor Snape ({{7}}) and {{8}} by Draco Malfoy (Tom Felton), Harry gets off to a {{9}} start with his two best {{10}}, Ron Weasly (Rupert Grint) and Hermione Granger ({{11}}).  Also, famous {{12}} Gilderoy Lockhart (Kenneth Branagh) has joined the Hogwarts staff and is the new Defense Against the {{13}} Arts teacher. But now, Hogwarts students are {{14}} being turned into {{15}}. But who is the one doing it? Malfoy? {{16}} Hagrid (Robbie Coltrane)? or even Harry? But what if it`s Lord Voldemort trying to make his {{17}} return?"
+}

@@ -1,0 +1,9 @@
+{
+  "inputs": [
+    "COLOR",
+    "NOUN (PLURAL)",
+    "NOUN",
+    "ADJECTIVE"
+  ],
+  "output": "Roses are {{1}}, <br>{{2}} are blue, <br>{{3}} is {{4}}, <br>and so are you."
+}

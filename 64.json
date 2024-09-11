@@ -1,0 +1,22 @@
+{
+  "inputs": [
+    "COLOR",
+    "COLOR",
+    "TIME OF YEAR",
+    "ADJECTIVE",
+    "ADJECTIVE",
+    "PLACE",
+    "PLACE",
+    "VERB ENDING IN \"ING\"",
+    "NOUN",
+    "BUILDING",
+    "BODY PART",
+    "VERB",
+    "OCCUPATION",
+    "PRONOUN",
+    "PLACE",
+    "VERB ENDING IN \"ING\"",
+    "NOUN"
+  ],
+  "output": "All the leaves are {{1}}<br>and the sky is {{2}}<br>I`ve been for a walk on a {{3}} day<br>I`d be {{4}} and {{5}}<br>If I was in {{6}}<br>{{7}} {{8}} on such a winter`s {{9}}<br>Stopped into a {{10}}<br>I passed along the way<br>well I got down on my {{11}}<br>and I pretend to {{12}}<br>You know the {{13}} like the cold<br>{{14}} knows I`m gonna stay<br>{{15}} {{16}}<br>on such a winter`s {{17}}"
+}

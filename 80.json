@@ -1,0 +1,16 @@
+{
+  "inputs": [
+    "NOUN",
+    "NUMBER",
+    "NOUN",
+    "ADJECTIVE",
+    "VERB ENDING IN \"S\"",
+    "ADJECTIVE",
+    "NOUN",
+    "ADJECTIVE",
+    "NOUN (PLURAL)",
+    "NOUN",
+    "VERB ENDING IN \"S\""
+  ],
+  "output": "\"A/An {{1}} in hand is worth {{2}} in the {{3}}.\"<br>\"A/An {{4}} mouth {{5}} no feet.\"<br>\"A/An {{6}} {{7}} believes anything, but a {{8}} {{7}} gives thought to his {{10}}.\"<br>\"A {{11}} in time {{12}} nine.\""
+}

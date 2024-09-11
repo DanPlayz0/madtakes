@@ -1,0 +1,15 @@
+{
+  "inputs": [
+    "COLOR",
+    "NOUN",
+    "FOOD",
+    "ADJECTIVE",
+    "ADJECTIVE",
+    "NUMBER",
+    "NOUN",
+    "VERB",
+    "VERB",
+    "NOUN"
+  ],
+  "output": "1. Select the type of bread you want to use. Many prefer the taste of {{1}} bread, while others prefer {{2}} bread because it is healthy. <br>2. Choose the flavor of Jam/Jelly. I personally prefer {{3}} jam, but you can use whatever you want. <br>3. Choose the type of penut butter - either {{4}} or {{5}}. <br>4. Take out {{6}} slice(s) of bread. <br>5. Use a {{7}} to {{8}} the jam all over on of the pieces of bread. <br>6. Now {{9}} the penut butter on the other piece of bread. <br>7. Put them together, and you have a PB&amp;J {{10}}."
+}

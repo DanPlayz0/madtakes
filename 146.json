@@ -1,0 +1,12 @@
+{
+  "inputs": [
+    "NOUN",
+    "NOUN (PLURAL)",
+    "ADJECTIVE",
+    "VERB",
+    "NOUN (PLURAL)",
+    "COLOR",
+    "BODY PART"
+  ],
+  "output": "Be my {{1}}<br>---<br>{{2}} make the world go {{3}}<br>---<br>Pickachu says \"I {{4}} you\"<br>---<br>I love {{5}}, {{6}} does too<br>---<br>You make my {{7}} flutter"
+}

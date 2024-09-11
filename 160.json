@@ -1,0 +1,26 @@
+{
+  "inputs": [
+    "NOUN",
+    "PLACE",
+    "SILLY WORD",
+    "VERB",
+    "NOUN",
+    "VERB",
+    "ADJECTIVE",
+    "ADJECTIVE",
+    "NUMBER",
+    "ADJECTIVE",
+    "ADVERB",
+    "ADJECTIVE",
+    "ADJECTIVE",
+    "NUMBER",
+    "MEASURMENT OF TIME",
+    "ADJECTIVE",
+    "ADJECTIVE",
+    "ADJECTIVE",
+    "NOUN",
+    "NUMBER",
+    "NUMBER"
+  ],
+  "output": "Is your {{1}} making a mess of your {{2}}? Try {{3}}! It will {{4}} your whole {{5}} and {{6}} to unbelievable levels! Watch, as we demonstrate, the {{7}} capabilities of this {{8}} product! Everyone should have at least {{9}} of these!"
+}

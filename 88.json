@@ -1,0 +1,21 @@
+{
+  "inputs": [
+    "NOUN",
+    "VERB",
+    "NOUN",
+    "NOUN (PLURAL)",
+    "FOOD",
+    "VERB ENDING IN \"ING\"",
+    "BODY PART",
+    "ADJECTIVE",
+    "ADJECTIVE",
+    "OCCUPATION",
+    "ADJECTIVE",
+    "ADJECTIVE",
+    "ADJECTIVE",
+    "ADJECTIVE",
+    "VERB ENDING IN \"ED\"",
+    "VERB ENDING IN \"ED\""
+  ],
+  "output": "Oh Larry {{1}}, we need you now.<br>To show the way, to {{2}} the day, to {{2}} the town.<br>Now from the {{4}}, the {{5}} squeal.<br>And to the rescue comes the {{6}} of Steel."
+}

@@ -1,0 +1,29 @@
+{
+  "inputs": [
+    "FUNNY WORD",
+    "FUNNY WORD",
+    "ADJECTIVE",
+    "NOUN (PLURAL)",
+    "NOUN (PLURAL)",
+    "ADJECTIVE",
+    "NOUN",
+    "NUMBER",
+    "VERB",
+    "MALE NAME",
+    "ADJECTIVE",
+    "NOUN",
+    "ADJECTIVE",
+    "NOUN",
+    "VERB ENDING WITH ED",
+    "PLACE",
+    "NOUN",
+    "ADJECTIVE",
+    "ADJECTIVE",
+    "VERB ENDING IN \"ED\"",
+    "NOUN",
+    "NOUN",
+    "VERB ENDING IN \"ED\"",
+    "NOUN (PLURAL)"
+  ],
+  "output": "{{1}} {{2}}! What a(n) {{3}} phrase"
+}

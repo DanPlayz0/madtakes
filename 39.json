@@ -1,0 +1,13 @@
+{
+  "inputs": [
+    "NUMBER",
+    "ADJECTIVE",
+    "VERB",
+    "OCCUPATION",
+    "RELATION",
+    "BODY PART (PLURAL)",
+    "VERB ENDING IN \"ING\"",
+    "NOUN"
+  ],
+  "output": "{{1}} {{2}} mice! See how they {{3}}! <br>They all ran after the {{4}}`s {{5}}, <br>Who cut off their {{6}} with a {{7}} knife. <br>Did you ever see such a thing in your {{8}} <br>As {{1}} {{2}} mice?"
+}

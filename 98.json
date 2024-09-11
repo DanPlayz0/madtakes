@@ -1,0 +1,13 @@
+{
+  "inputs": [
+    "VERB",
+    "ADJECTIVE",
+    "ADJECTIVE",
+    "NOUN",
+    "ADJECTIVE",
+    "VERB ENDING IN \"ED\"",
+    "NOUN",
+    "VERB ENDING IN \"ING\""
+  ],
+  "output": "- While anyone can {{1}} to themselves they were {{2}}, the true test is admission to someone else.<br>- Faults are {{3}} where {{4}} is thin.<br>- The only real way to look {{5}} is not to be {{6}} so soon.<br>- Always try to do things in chronological {{7}}; it`s less {{8}} that way."
+}

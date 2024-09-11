@@ -1,0 +1,16 @@
+{
+  "inputs": [
+    "ADJECTIVE",
+    "NOUN",
+    "BODY PART (PLURAL)",
+    "NOUN",
+    "VERB ENDING IN \"ED\"",
+    "VERB ENDING IN \"ING\"",
+    "NOUN (PLURAL)",
+    "NOUN (PLURAL)",
+    "NOUN (PLURAL)",
+    "NOUN",
+    "NOUN"
+  ],
+  "output": "<div align=\"`left`\"><dl><dt>Xanthochroid:</dt><dd><i>adj.</i> Having a/an {{1}} {{2}} and light {{3}}.</dd><dd><i>n.</i> A/An {{4}} having a/an {{1}} {{2}} and light {{3}}.</dd><dt>Obdurate</dt><dd><i>adj.</i> {{8}} against feeling; {{8}} in {{10}} or wickedness; not giving in to {{11}}; showing unfeeling {{12}} to tender {{13}}.</dd><dt>Affuage</dt><dd><i>n.</i> The right to cut {{14}} in a {{15}} for a family fire.</dd></dl></div>"
+}

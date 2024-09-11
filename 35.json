@@ -1,0 +1,18 @@
+{
+  "inputs": [
+    "VERB ENDING IN \"ED\"",
+    "NOUN",
+    "ADJECTIVE",
+    "NOUN",
+    "NOUN",
+    "ADJECTIVE",
+    "ADJECTIVE",
+    "NOUN (PLURAL)",
+    "VERB ENDING IN \"ING\"",
+    "NOUN (PLURAL)",
+    "SCHOOL SUBJECT",
+    "ATTITUDE",
+    "NOUN"
+  ],
+  "output": "This software is {{1}} by the {{2}} holders and contributors \"as is\" and any express or {{3}} warranties, including, but not limited to, the implied warranties of merchantability and {{4}} for a particular {{5}} are disclaimed. In no event shall the {{2}} owner or contributors be liable for any direct, indirect, {{7}}, special, {{8}}, or consequential {{9}} (including, but not limited to, {{10}} of substitute goods or services; loss of use, {{11}}, or profits; or business interruption) however caused and on any theory of {{12}}, whether in contract, strict liability, or tort (including {{13}} or otherwise) arising in any {{14}} out of the use of this software, even if advised of the possibility of such {{9}}."
+}

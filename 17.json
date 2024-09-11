@@ -1,0 +1,21 @@
+{
+  "inputs": [
+    "NOUN (PLURAL)",
+    "ADJECTIVE",
+    "ADJECTIVE",
+    "VERB ENDING IN \"ED\"",
+    "ADJECTIVE",
+    "NOUN",
+    "VERB",
+    "NOUN (PLURAL)",
+    "VERB ENDING IN \"ING\"",
+    "ADJECTIVE",
+    "NOUN",
+    "NOUN",
+    "ADJECTIVE",
+    "NOUN",
+    "VERB",
+    "VERB"
+  ],
+  "output": "WE hold these {{1}} to be self-{{2}}, that all Men are created {{3}}, that they are {{4}} by their Creator with certain {{5}} Rights, that among these are {{6}}, Liberty and the {{7}} of Happiness -- That to secure these Rights, {{8}} are instituted among Men, {{9}} their {{10}} Powers from the Consent of the {{11}}, that whenever any Form of {{12}} becomes {{13}} of these Ends, it is the {{14}} of the People to {{15}} or to {{16}} it..."
+}

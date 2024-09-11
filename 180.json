@@ -1,0 +1,14 @@
+{
+  "inputs": [
+    "ADJECTIVE",
+    "NOUN",
+    "NUMBER",
+    "NOUN",
+    "ADJECTIVE",
+    "VERB",
+    "NOUN",
+    "BODY PART",
+    "ADJECTIVE"
+  ],
+  "output": "Look, I guarantee there`ll be {{1}} times. I guarantee that at some {{2}}, {{3}} or both of us is gonna want to get out of this {{4}}. But I also guarantee that if I don`t ask you to be {{5}}, I`ll {{6}} it for the rest of my {{7}}, because I know, in my {{8}}, you`re the {{9}} one for me."
+}

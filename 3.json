@@ -1,0 +1,29 @@
+{
+  "inputs": [
+    "TIME SPAN",
+    "NOUN",
+    "VERB",
+    "VERB",
+    "NOUN (PLURAL OR SINGULAR)",
+    "NOUN",
+    "VERB ENDING IN \"ING\"",
+    "OCCUPATION",
+    "NOUN",
+    "NOUN",
+    "FAMOUS PERSON",
+    "ADJECTIVE",
+    "VERB",
+    "NOUN",
+    "NOUN (PLURAL)",
+    "ADJECTIVE",
+    "NOUN (PLURAL)",
+    "VERB",
+    "PREPOSITION",
+    "VERB",
+    "ADJECTIVE",
+    "NOUN",
+    "VERB",
+    "ADJECTIVE"
+  ],
+  "output": "Every {{1}}, I wake up and get off my {{2}}. I don`t always have time to {{3}} a shower, but I always make sure to {{4}} my hair. Once that`s done I get some {{5}}, and then it`s off to my first {{6}}. I often get caught {{7}} in class. No one likes it when the {{8}} gives a surprise {{9}}. My second class is {{10}} Theory. Dr. {{11}} is incredibly {{12}}, but I never {{13}} her because of her thick {{14}}. Her {{15}}, however, are really {{16}}. After lunch, I have no more {{17}} and I`m free to {{18}} {{19}} my friends. Before I go to bed I {{20}} a little bit. {{21}} {{22}} {{23}} {{24}}."
+}

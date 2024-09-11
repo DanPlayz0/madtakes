@@ -1,0 +1,15 @@
+{
+  "inputs": [
+    "NOUN",
+    "VERB ENDING IN \"ING\"",
+    "NOUN",
+    "OCCUPATION",
+    "NUMBER",
+    "LOCATION",
+    "VERB",
+    "ADJECTIVE",
+    "NOUN (PLURAL)",
+    "NOUN"
+  ],
+  "output": "{{1}}ball is a very exciting sport. Whether you are {{2}} the ball with a {{3}}, or you are the {{4}} and striking out {{5}} batters in a row, you`ll be having fun. You can also be the catcher, standing at {{6}} plate, ready to {{7}} the next person as he tries to make it {{6}}. But the best part of it is when someone hits a {{9}} slam when all the {{10}} are loaded during the last {{11}} to win the game."
+}

@@ -1,0 +1,20 @@
+{
+  "inputs": [
+    "NOUN (PLURAL)",
+    "NOUN",
+    "VERB",
+    "NOUN (PLURAL)",
+    "NOUN",
+    "NOUN",
+    "TYPE OF FOOD",
+    "NOUN (PLURAL)",
+    "ADJECTIVE",
+    "NOUN (PLURAL)",
+    "ADJECTIVE",
+    "NOUN",
+    "ADJECTIVE",
+    "TYPE OF MEASUREMENT",
+    "NOUN"
+  ],
+  "output": "If you like to talk to {{1}}<br>If a {{2}} can make you {{3}}<br>If you like to waltz with {{4}}<br>Up and down the produce {{5}}...<br>Have we got a/an {{6}} for you!"
+}

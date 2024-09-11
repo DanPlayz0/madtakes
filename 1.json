@@ -1,0 +1,11 @@
+{
+  "inputs": [
+    "NOUN (PLURAL)",
+    "OCCUPATION",
+    "ANIMAL (PLURAL)",
+    "PLACE",
+    "VERB",
+    "NOUN"
+  ],
+  "output": "In the book <i>War of the {{1}}</i>, the main character is an anonymous {{2}} who records the arrival of {{3}} in {{4}}. Needless to say, havoc reigns as the {{3}} continue to {{6}} everything in sight, until they are killed by the common {{7}}."
+}

@@ -1,0 +1,22 @@
+{
+  "inputs": [
+    "NAME OF PERSON IN ROOM",
+    "NOUN",
+    "SUPERLATIVE (ENDING IN \"EST\")",
+    "NOUN",
+    "BODY PART",
+    "VERB ENDING IN \"ING\"",
+    "NOUN",
+    "VERB",
+    "EVENT",
+    "DAY OF THE WEEK",
+    "VERB",
+    "VERB",
+    "PLACE",
+    "TIME SPAN",
+    "VERB",
+    "ADVERB",
+    "NAME OF PERSON IN ROOM"
+  ],
+  "output": "Dear {{1}},"
+}

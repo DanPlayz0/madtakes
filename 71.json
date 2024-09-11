@@ -1,0 +1,23 @@
+{
+  "inputs": [
+    "NOUN",
+    "RELATIVE (PLURAL)",
+    "NOUN",
+    "ADJECTIVE",
+    "OCCUPATION",
+    "NOUN",
+    "ADJECTIVE",
+    "ADJECTIVE",
+    "NOUN",
+    "OCCUPATION (PLURAL)",
+    "ADJECTIVE",
+    "BODY PART",
+    "NOUN",
+    "ADJECTIVE",
+    "VERB",
+    "NOUN",
+    "OCCUPATION",
+    "OCCUPATION"
+  ],
+  "output": "After the tragic {{1}} of their {{2}}, Violet, Klaus, and Sunny Baudelaire travel from {{3}} to {{3}} by a/an {{5}} friend of their {{2}}, Mr. Poe. The orphans stay with {{7}} Montgomery Montgomery and {{8}}-wise Josephine Anwhistle, but the {{9}} one was Count Olaf, a/an {{10}} and greedy {{11}}, who, with the help of his {{12}} -- the {{13}} man, the hook-{{14}}ed man, the person of undeterminable {{15}}, and the two {{16}}-faced women, tries to {{17}} the Baudelaire {{18}}. To do this, he disguises himself in the forms of {{19}}, Stephano, and {{20}}, Julio Sham."
+}

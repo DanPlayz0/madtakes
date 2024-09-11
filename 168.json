@@ -1,0 +1,32 @@
+{
+  "inputs": [
+    "VERB",
+    "BODY PART (PLURAL)",
+    "NUMBER",
+    "NOUN (PLURAL)",
+    "BODY PART",
+    "VERB",
+    "VERB ENDING IN \"ED\"",
+    "VERB",
+    "BODY PART (PLURAL)",
+    "NOUN",
+    "ADJECTIVE",
+    "NOUN (PLURAL)",
+    "VERB",
+    "VERB ENDING IN \"ED\"",
+    "ADJECTIVE",
+    "EVENT",
+    "NOUN (PLURAL)",
+    "NUMBER",
+    "BODY PART",
+    "VERB ENDING IN \"ING\"",
+    "VERB ENDING IN \"ED\"",
+    "ANIMAL",
+    "OCCUPATION",
+    "OCCUPATION",
+    "ILLNESS",
+    "VERB",
+    "NOUN"
+  ],
+  "output": "In faith, I do not {{1}} thee with mine {{2}}, <br>For they in thee {{3}} {{4}} note, <br>But `tis my {{5}} that loves what they {{6}}, <br>Who in despite of view is {{7}} to {{8}}."
+}

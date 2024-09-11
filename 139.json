@@ -1,0 +1,25 @@
+{
+  "inputs": [
+    "PLACE",
+    "NOUN (PLURAL)",
+    "VERB ENDING IN \"ING\"",
+    "ADJECTIVE",
+    "NOUN (PLURAL)",
+    "ADJECTIVE",
+    "CONTAINER",
+    "VERB",
+    "ADVERB",
+    "VERB",
+    "CONTAINER (PLURAL)",
+    "NOUN (PLURAL)",
+    "NOUN (PLURAL)",
+    "VERB ENDING IN \"ING\"",
+    "VERB ENDING IN \"ED\"",
+    "BODY PART",
+    "VERB ENDING IN \"ING\"",
+    "VERB ENDING IN \"ING\"",
+    "VERB",
+    "NOUN"
+  ],
+  "output": "Across the {{1}}"
+}

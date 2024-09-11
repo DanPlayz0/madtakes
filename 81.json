@@ -1,0 +1,18 @@
+{
+  "inputs": [
+    "VERB",
+    "OCCUPATION",
+    "NOUN",
+    "BODY PART (PLURAL)",
+    "NOUN (PLURAL)",
+    "VERB",
+    "NOUN",
+    "ADJECTIVE",
+    "BODY PART",
+    "ADJECTIVE",
+    "VERB",
+    "SOUND",
+    "VERB"
+  ],
+  "output": "Every night <br>I {{1}} and pray <br>A dream {{2}} will come my way<br>A {{3}} to hold in my {{4}} <br>And know the magic of her {{5}}"
+}

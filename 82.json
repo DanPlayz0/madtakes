@@ -1,0 +1,18 @@
+{
+  "inputs": [
+    "NOUN (PLURAL)",
+    "ADJECTIVE",
+    "NOUN (PLURAL)",
+    "VERB ENDING IN \"ING\"",
+    "ADJECTIVE",
+    "NOUN",
+    "OCCUPATION (PLURAL)",
+    "NOUN",
+    "VERB",
+    "OCCUPATION",
+    "ADJECTIVE",
+    "VERB ENDING IN \"ED\"",
+    "BODY PART"
+  ],
+  "output": "Yi yi yai yi...."
+}

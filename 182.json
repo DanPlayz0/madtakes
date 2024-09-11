@@ -1,0 +1,15 @@
+{
+  "inputs": [
+    "PERSON IN ROOM",
+    "ADJECTIVE",
+    "VERB",
+    "PART OF THE BODY",
+    "NUMBER",
+    "NOUN",
+    "ADVERB",
+    "VERB",
+    "PRONOUN PLURAL",
+    "OTHER PERSON IN ROOM"
+  ],
+  "output": "Dear {{1}},"
+}

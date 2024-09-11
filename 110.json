@@ -1,0 +1,23 @@
+{
+  "inputs": [
+    "NOUN (PLURAL)",
+    "NOUN",
+    "VERB ENDING IN \"ING\"",
+    "FOOD",
+    "ANIMAL (PLURAL)",
+    "EVENT",
+    "NAME OF PERSON IN ROOM",
+    "VERB",
+    "VERB ENDING IN \"ED\"",
+    "NOUN",
+    "VERB",
+    "ADVERB",
+    "BODY PART (PLURAL)",
+    "VERB",
+    "ADJECTIVE",
+    "ADJECTIVE",
+    "NOUN (PLURAL)",
+    "ADJECTIVE"
+  ],
+  "output": "You say that we`ve got {{1}} in common<br>No common {{2}} to start from<br>And we`re {{3}} apart<br>You`ll say the {{4}} has come between us<br>Our {{5}} have come between us<br>But I know you just don`t care"
+}

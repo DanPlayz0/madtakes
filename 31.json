@@ -1,0 +1,20 @@
+{
+  "inputs": [
+    "NAME OF GIRL IN ROOM",
+    "LOCATION",
+    "NOUN",
+    "ADJECTIVE",
+    "NOUN",
+    "ADJECTIVE",
+    "NAME OF GUY IN ROOM",
+    "NOUN",
+    "VERB ENDING IN \"ING\"",
+    "FAMOUS PERSON",
+    "TIME OF DAY",
+    "NOUN",
+    "ADVERB",
+    "NOUN",
+    "NOUN"
+  ],
+  "output": "{{1}} died this saturday in a car wreck in {{2}}. She was driving a late 90`s model {{3}} when a {{4}} driver swerved onto her side of the {{5}}, resulting in a {{6}} collision. <br> <br>{{7}} died on tuesday afternoon. He was crushed by a {{8}} as he was {{9}} home. <br> <br>{{10}} was murdered on thursday {{11}} as he walked into the middle of a {{12}} robbery. Witnesses say he {{13}} tried to take out one of the robbers, but tripped on a {{14}}, at which point one of the robbers shot him with his {{15}}."
+}

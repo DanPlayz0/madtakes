@@ -1,0 +1,24 @@
+{
+  "inputs": [
+    "ADJECTIVE",
+    "NOUN",
+    "NOUN",
+    "BODY PART (PLURAL)",
+    "VERB",
+    "VERB",
+    "VERB",
+    "ADJECTIVE",
+    "NOUN",
+    "VERB ENDING IN \"ED\"",
+    "NUMBER",
+    "NOUN",
+    "NOUN (PLURAL)",
+    "ADJECTIVE",
+    "ADJECTIVE",
+    "PLACE",
+    "FUNNY WORD",
+    "LETTER",
+    "LETTER"
+  ],
+  "output": "It`s 1990, and SEGA isn`t making very {{1}} games. Nintendo`s mascot, Mario, is making more and more games that are way better than any of SEGA`s. Then SEGA had an {{2}}, what they needed is a Mario of their own...they had the {{3}} of making a rabbit that can stretch his {{4}} out and {{5}} things. That plan didn`t go so well. They needed an animal that can {{6}} itself and {{7}} enemies by doing only a spin. They noticed that hedgehogs have quills that {{6}} and {{7}}. So they went with the hedgehog. Since he was planned to be a rabbit, they programmed him to run at a {{10}} speed. Then, in 1991, `Sonic the Hedgehog` was released for the SEGA {{11}}. In the first year, it out-{{12}} Mario by {{13}} Copies. Sonic was then known as SEGA`s {{14}}. Over the years, Sonic has taken on many {{15}}. In 1998, he took on a {{16}} style in the game `Sonic Adventure.` Today, Mario and Sonic are still {{17}} rivals. Also, in Winter 2007, Mario and Sonic will compete in the 2008 {{18}} Olympics in `Mario and Sonic at the Olympic Games` for the Nintendo {{19}} and Nintendo {{20}}{{21}}."
+}

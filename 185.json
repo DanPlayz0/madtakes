@@ -1,0 +1,9 @@
+{
+  "inputs": [
+    "ADJECTIVE",
+    "NOUN",
+    "ANIMAL",
+    "NOISE"
+  ],
+  "output": "{{1}} Macdonald had a {{2}}, E-I-E-I-O<br> and on that {{2}} he had an {{4}}, E-I-E-I-O<br> with a {{5}} {{5}} here<br> and a {{5}} {{5}} there,<br> here a {{5}}, there a {{5}},<br> everywhere a {{5}} {{5}},<br> {{1}} Macdonald had a {{2}}, E-I-E-I-O."
+}

@@ -1,0 +1,29 @@
+{
+  "inputs": [
+    "NOUN",
+    "VERB",
+    "ADJECTIVE",
+    "NOUN (PLURAL)",
+    "VEHICLE",
+    "NOUN",
+    "NUMBER",
+    "NOUN (PLURAL)",
+    "NOUN (PLURAL)",
+    "NUMBER",
+    "ADJECTIVE",
+    "NOUN",
+    "VERB ENDING IN \"ED\"",
+    "VERB ENDING IN \"ED\"",
+    "NOUN (PLURAL)",
+    "MEASUREMENT OF TIME (PLURAL)",
+    "VERB ENDING IN \"ED\"",
+    "NOUN (PLURAL)",
+    "NOUN (PLURAL)",
+    "TYPE OF LIQUID",
+    "NOUN",
+    "ADJECTIVE",
+    "VERB",
+    "NOUN"
+  ],
+  "output": "There was {{1}} in the world. So God told Noah that it was going to {{2}} for a {{3}} time. God gave Noah {{4}} on what to do: \"Make a {{5}}. It should be made out of gopher {{6}} and should be {{7}} {{8}} long, and 75 {{9}} wide. Take with you {{10}} of every creature: One {{11}}, and one female.\" <br>So Noah gathered his {{12}} together, and they {{13}} the ark. Noah`s friends {{14}} out {{15}} at him as he worked, but Noah didn`t pay attention to them. Finally after 120 {{16}}, the ark was {{17}}. They then gathered all the creatures, and as the last one boarded, it began to {{2}}. For 40 {{19}} and 40 {{20}}, it went on. The Earth became covered with {{21}}. After a year and a day, they found {{22}}, and everyone else was {{23}}. And as a sign that God would never {{24}} the earth again, he gave them a/an {{25}}."
+}

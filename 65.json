@@ -1,0 +1,27 @@
+{
+  "inputs": [
+    "BODY PART",
+    "ADJECTIVE",
+    "ADJECTIVE",
+    "BODY PART",
+    "ADJECTIVE",
+    "ADJECTIVE",
+    "SOMETHING YOU DO",
+    "NOUN",
+    "SOMETHING YOU CAN USE",
+    "ADJECTIVE",
+    "VERB ENDING IN \"ING\"",
+    "NOUN (PLURAL)",
+    "ARTICLE OF CLOTHING (PLURAL)",
+    "NOUN",
+    "BODY PART (PLURAL)",
+    "NOUN",
+    "VERB ENDING IN \"ING\"",
+    "VERB ENDING IN \"ING\"",
+    "SOMETHING YOU`D SCREAM",
+    "FEELING",
+    "VERB ENDING IN \"ING\"",
+    "VERB ENDING IN \"ING\""
+  ],
+  "output": "<i>(Scene: Ugly Naked Guy`s apartment, Ross, Rachel, and Phoebe are checking out the place. Luckily, Ugly Naked Guy is nowhere to be seen.)</i>"
+}

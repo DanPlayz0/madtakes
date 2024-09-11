@@ -1,0 +1,22 @@
+{
+  "inputs": [
+    "NOUN",
+    "VERB ENDING IN \"ING\"",
+    "ANIMAL (PLURAL)",
+    "VERB ENDING IN \"ED\"",
+    "CELEBRITY",
+    "RESTAURANT",
+    "NOUN",
+    "ADJECTIVE",
+    "NOUN",
+    "NOUN (PLURAL)",
+    "NOUN",
+    "JUNK FOOD ITEM (PLURAL)",
+    "SWEET FOOD (PLURAL)",
+    "NAME OF MOVIE",
+    "GAME",
+    "NOUN",
+    "VERB ENDING IN \"ED\""
+  ],
+  "output": "today I went out of my {{1}} to go {{2}} and was mobbed by a huge crowd of {{3}}. I {{4}} to get out of there as fast as I could. I met up with {{5}} and we went to eat at {{6}}. We left there and went to the {{7}} and saw something amazing. It was a large {{8}} {{9}} and we were in awe. Next, my {{10}} came up to me and asked for my autograph and I gladly did so. {{5}} and I went to my {{12}} and had a sleepover. We ate {{13}} and {{14}}. We watched <i>{{15}}</i> and played {{16}}. Photographers tried to take pictures of us, but my {{17}} kept them away. We had lots of fun and we {{18}} all night long."
+}

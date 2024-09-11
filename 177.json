@@ -1,0 +1,21 @@
+{
+  "inputs": [
+    "SILLY NAME",
+    "SILLY WORD",
+    "VERB",
+    "NOUN",
+    "BODY PART (PLURAL)",
+    "FEMALE NAME",
+    "VERB ENDING IN \"ED\"",
+    "NOUN",
+    "NOUN (PLURAL)",
+    "VERB",
+    "NOUN",
+    "OCCUPATION",
+    "NUMBER",
+    "VERB",
+    "SILLY WORD",
+    "SILLY NAME"
+  ],
+  "output": "Dear Mr. and Mrs. {{1}} {{2}},"
+}

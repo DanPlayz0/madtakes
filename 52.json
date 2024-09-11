@@ -1,0 +1,25 @@
+{
+  "inputs": [
+    "PLACE",
+    "COUNTRY",
+    "VERB ENDING IN \"ED\"",
+    "NOUN (PLURAL)",
+    "VERB ENDING IN \"ED\"",
+    "VERB ENDING IN \"ING\"",
+    "PROFESSION",
+    "NOUN",
+    "NOUN",
+    "MONTH",
+    "NUMBER",
+    "ADVERB (ENDS IN \"LY\")",
+    "NOUN (PLURAL)",
+    "NUMBER",
+    "NUMBER",
+    "NUMBER",
+    "NUMBER",
+    "SHAPE",
+    "NOUN",
+    "NOUN"
+  ],
+  "output": "{{1}} - {{2}} has a new addiction.<br>Hunched over newspapers on {{3}} subway trains, sneaking secret peeks in the office, a puzzle-crazy nation is trying to slot {{4}} into small checkerboard grids.<br>It`s Sudoku - a sort of crossword without words that has {{5}} the country.<br>\"There`s something about that grid with its empty squares - it`s just {{6}} out to be filled in,\" said Wayne Gould, a retired {{7}} and puzzle aficionado who helped spark {{2}}`s love affair with the {{9}}.<br>A Japanese {{10}} that has quietly appeared in puzzle magazines in Asia and North America for years, Sudoku hit {{2}} in the pages of The Times newspaper in {{12}}. It now has thousands of avid followers, a host of Web sites and books, and runs daily in {{13}} national newspapers, which compete {{14}} to offer their readers the best puzzle.<br>The Times is offering a version for {{15}}. The Daily Telegraph promises a 3-D \"ultimate Sudoku\" version.<br>The name, which translates roughly as \"the number that is alone,\" has become a handy catch-phrase.<br>Sudoku consists of a grid of {{16}} rows of {{17}} boxes, which must be filled in so the numbers one through nine appear just once in each column, row and {{18}}-by-{{19}} {{20}}.<br>It looks like {{21}}, but requires the application of {{22}}. It can be fairly straightforward or fiendishly difficult."
+}

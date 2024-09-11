@@ -1,0 +1,11 @@
+{
+  "inputs": [
+    "NOUN",
+    "NOUN (PLURAL)",
+    "NOUN",
+    "PLACE",
+    "ADJECTIVE",
+    "NOUN"
+  ],
+  "output": "Be kind to your {{1}}-footed {{2}}<br>For a duck may be somebody`s {{3}},<br>Be kind to your {{2}} in {{5}}<br>Where the weather is always {{6}}."
+}

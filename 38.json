@@ -1,0 +1,19 @@
+{
+  "inputs": [
+    "FOOD",
+    "ADJECTIVE",
+    "NOUN",
+    "VERB ENDING IN \"ED\"",
+    "HOUSEHOLD ITEM",
+    "LOCATION",
+    "VERB ENDING IN \"ED\"",
+    "TYPE OF PLANT",
+    "ADJECTIVE",
+    "MEASUREMENT",
+    "VERB ENDING IN \"ED\"",
+    "TYPE OF FABRIC",
+    "TYPE OF BEVERAGE",
+    "VERB"
+  ],
+  "output": "On top of spaghetti,  <br>All covered with {{1}}, <br>I lost my {{2}} {{3}}ball,  <br>When somebody {{4}}. <br> <br>It rolled off the {{5}}, <br>And on to the floor, <br>And then my {{2}} {{3}}ball, <br>Rolled out of the {{8}}. <br> <br>It {{9}} into the garden, <br>And under a {{10}}, <br>And then my {{2}} {{3}}ball, <br>Was nothing but mush. <br> <br>The mush was as {{13}} <br>As {{13}} could be, <br>And then the next {{15}},  <br>It {{16}} into a tree. <br> <br>The tree was all covered, <br>All covered with {{17}}, <br>And on it grew {{3}}balls, <br>And {{19}}. <br> <br>So if you eat spaghetti, <br>All covered with {{1}}, <br>Hold on to your {{3}}ball, <br>Whenever you {{22}}."
+}

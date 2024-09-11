@@ -1,0 +1,21 @@
+{
+  "inputs": [
+    "NOUN (PLURAL)",
+    "ADJECTIVE",
+    "VERB ENDING IN \"S\"",
+    "VERB",
+    "VERB",
+    "ADVERB",
+    "NOUN",
+    "NOUN",
+    "VERB ENDING IN \"ING\"",
+    "VERB",
+    "VERB",
+    "ADJECTIVE",
+    "ADJECTIVE",
+    "NOUN",
+    "NOUN",
+    "VERB"
+  ],
+  "output": "Yesterday, all my {{1}} seemed so {{2}}<br>Now it {{3}} as though they`re here to {{4}}<br>Oh, I {{5}} in yesterday."
+}

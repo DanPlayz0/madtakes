@@ -1,0 +1,23 @@
+{
+  "inputs": [
+    "ADJECTIVE",
+    "NOUN",
+    "ANIMAL",
+    "ADVERB (ENDS IN \"LY\")",
+    "VERB",
+    "VERB ENDING IN \"ING\"",
+    "NOUN (PLURAL)",
+    "VERB ENDING IN \"ED\"",
+    "OCCUPATION",
+    "VERB",
+    "OCCUPATION",
+    "OCCUPATION",
+    "ADJECTIVE",
+    "NOUN",
+    "FANTASY CREATURE",
+    "NOUN",
+    "ADJECTIVE",
+    "NOUN"
+  ],
+  "output": "A rather {{1}} thing has just occurred in the life of nerdy high {{2}} student Peter Parker; after being bitten by a radioactive {{3}}, his body chemistry is {{4}} altered in that he can {{5}} walls and ceilings, and he develops a \"{{3}}-sense\" that warns him of {{7}} danger. Adopting the name \"{{3}}-Man\", Peter first uses his newfound {{9}} to make money, but after his uncle is {{10}} at the hands of a {{11}} Peter failed to {{12}}, he swears to use his {{9}} to fight the evil that {{10}} his uncle. At the same time, {{15}} and {{16}} Norman Osborn, after exposure to an {{17}} nerve {{18}}, develops an alternate personality himself; the super-strong, psychotic Green {{19}}! Peter Parker must now juggle three things in his life; his new job at the local newspaper under a perpetually on-edge {{20}}, his battle against the evil Green {{19}}, and his fight to win the affections of {{22}} classmate Mary Jane Watson, against none other than his best {{23}} Harry Osborn, son of Norman Osborn! Is this challenge too much for even the amazing {{3}}-Man to handle?"
+}

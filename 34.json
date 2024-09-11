@@ -1,0 +1,15 @@
+{
+  "inputs": [
+    "BOY`S NAME",
+    "NOUN",
+    "OCCUPATION",
+    "MEASUREMENT",
+    "NOUN",
+    "ADJECTIVE",
+    "GAME",
+    "ADJECTIVE",
+    "NOUN (PLURAL)",
+    "VERB ENDING IN \"ING\""
+  ],
+  "output": "On his 11th birthday, young {{1}} Potter discovers the {{2}} he never knew he had, the {{2}} of a/an {{4}}. In his first {{5}} at Hogwarts School of Witchcraft and {{6}}, he meets his two {{7}} friends Ron Weasley, an expert at Wizard {{8}}, and Hermione Granger, a girl with {{9}} parents. Harry learns the game of Quiditch and Wizard {{8}} on his way to facing a Dark {{11}} teacher who is bent on {{12}} him."
+}

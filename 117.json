@@ -1,0 +1,10 @@
+{
+  "inputs": [
+    "GIRL`S NAME",
+    "ANIMAL",
+    "COLOR",
+    "PLACE",
+    "VERB"
+  ],
+  "output": "{{1}} had a little {{2}} little {{2}} little {{2}} {{1}} had a little {{2}}, it`s fleece was {{7}} as snow.<br>It followed her to {{8}} one day, {{8}} one day, {{8}} one day, it made the children {{11}} and play to see a {{2}} at {{8}}"
+}

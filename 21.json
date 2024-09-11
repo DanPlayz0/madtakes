@@ -1,0 +1,14 @@
+{
+  "inputs": [
+    "ADJECTIVE",
+    "ITALIAN PERSON`S NAME",
+    "OCCUPATION",
+    "VERB ENDING IN \"ING\"",
+    "PLANT (PLURAL)",
+    "ADJECTIVE",
+    "NOUN (PLURAL)",
+    "NOUN",
+    "NAME OF PERSON IN ROOM"
+  ],
+  "output": "<i>{{1}} {{2}} Brothers</i> is a popular video game where you control a/an {{3}} as he/she runs through levels {{4}} on enemies and eating {{5}} to get {{6}} and fireflowers so that he/she can throw {{7}} at enemies. He does all this to save the {{8}} from the evil {{9}}."
+}

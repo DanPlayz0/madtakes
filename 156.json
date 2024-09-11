@@ -1,0 +1,16 @@
+{
+  "inputs": [
+    "NAME",
+    "ADJECTIVE",
+    "VERB",
+    "SILLY WORD",
+    "NOUN",
+    "NOUN (PLURAL)",
+    "VERB ENDING IN \"ED\"",
+    "NOUN",
+    "NOUN",
+    "VERB ENDING IN \"ED\"",
+    "ADJECTIVE"
+  ],
+  "output": "Darth {{1}} looked at his master while his {{2}} breathing filled the room. He was told to go to {{3}} evrything on the planet of {{4}}. He got in his {{5}} and jumped to hyperspace. Soon before he reached the planet, he dropped out of hyperspace and was attacked by Rebel {{6}}. He {{7}} them off and continued to the planet`s surface. He landed and confronted more opposition, slicing it down with his {{8}}. He used the {{9}} to choke another Rebel, then {{10}} him aside. He finished off all life on the planet with a/an {{11}} laugh."
+}

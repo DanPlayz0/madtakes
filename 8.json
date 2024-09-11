@@ -1,0 +1,18 @@
+{
+  "inputs": [
+    "NOUN",
+    "ADJECTIVE",
+    "ANIMAL (PLURAL)",
+    "ANIMAL (PLURAL)",
+    "VERB ENDING IN \"ING\"",
+    "ADJECTIVE",
+    "FAMOUS PERSON",
+    "COLOR",
+    "NOUN (PLURAL)",
+    "NOUN (PLURAL)",
+    "ANIMAL (PLURAL)",
+    "VERB ENDING IN \"ED\"",
+    "NOUN (PLURAL)"
+  ],
+  "output": "In J.R.R. Tolkien`s famous trilogy <i>Lord of the {{1}}s</i> the first book is called <i>Fellowship of the {{1}}</i>. In this book a group of {{3}} Hobbits flee their hometown. They eventually join into a fellowship made up of {{4}}, Elves and {{5}}, with the goal of {{6}} the One {{1}}. They begin by traveling through the {{8}} mountains, where {{9}} the {{10}} is lost. They continue on to the forest, where the queen of the {{11}} gives them {{12}} to ride down the river. At the end of the book, Merri and Pippin get captured by {{13}}, and Frodo is {{14}} by one of his fellow {{15}} and leaves on his own (but with Sam)."
+}

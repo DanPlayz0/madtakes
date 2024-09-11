@@ -1,0 +1,23 @@
+{
+  "inputs": [
+    "ADJECTIVE",
+    "NOUN",
+    "NOUN",
+    "VERB",
+    "ADJECTIVE",
+    "NOUN",
+    "VERB",
+    "NOUN",
+    "VERB ENDING IN \"S\"",
+    "BODY PART (PLURAL)",
+    "ADJECTIVE",
+    "PLACE",
+    "VERB",
+    "SHAPE (PLURAL)",
+    "NOUN",
+    "NOUN",
+    "ANIMAL (PLURAL)",
+    "NOUN"
+  ],
+  "output": "But {{1}}! What light through yonder {{2}} breaks? <br>It is the East, and Juliet is the {{3}}! <br>Arise, fair sun, and {{4}} the envious moon, <br>Who is already sick and {{5}} with grief <br>That thou her {{6}} art far more fair than she. <br>Be not her {{6}}, since she is envious. <br>Her vestal livery is but sick and green, <br>And none but fools do {{8}} it. Cast it off. <br>It is my lady; O, it is my {{9}}! <br>O that she knew she were! <br>She {{10}}, yet she says nothing. What of that? <br>Her {{11}} discourses; I will answer it. <br>I am too {{12}}; `tis not to me she {{10}}.  <br>Two of the fairest stars in all the {{14}}, <br>Having some business, do entreat her {{11}} <br>To {{16}} in their {{17}} till they return. <br>What if her {{11}} were there, they in her head? <br>The {{19}} of her cheek would shame those stars <br>As daylight doth a lamp; her {{11}} in {{14}} <br>Would through the airy {{22}} stream so bright <br>That {{23}} would sing and think it were not night. <br>See how she leans her cheek upon her {{24}}! <br>O that I were a glove upon that {{24}}, <br>That I might touch that cheek!"
+}

@@ -1,0 +1,33 @@
+{
+  "inputs": [
+    "VERB",
+    "BODY PART",
+    "ADJECTIVE",
+    "BODY PART (PLURAL)",
+    "GOVERNMENT POSITION",
+    "NOUN",
+    "TYPE OF PLANT",
+    "VERB",
+    "ADJECTIVE",
+    "VERB ENDING IN \"ED\"",
+    "ADJECTIVE",
+    "NOUN",
+    "ADJECTIVE",
+    "VERB",
+    "TYPE OF LIQUID",
+    "RELATIVE",
+    "BODY PART",
+    "GOVERNMENT POSITION",
+    "VERB ENDINGIN \"S\"",
+    "NOUN",
+    "PLACE",
+    "PLACE",
+    "VERB",
+    "ADJECTIVE",
+    "ADJECTIVE",
+    "BODY PART (PLURAL)",
+    "ADJECTIVE",
+    "NOUN"
+  ],
+  "output": "Fie, fie! {{1}} that threatening unkind {{2}},<br>And dart not {{3}} glances from those {{4}}<br>To wound thy {{5}}, thy king, thy governor.<br>It blots thy {{6}} as frosts do bite the {{7}},<br>Confounds thy fame as whirlwinds {{8}} fair buds,<br>And in no sense is {{9}} or amiable.<br>A woman mov`d is like a fountain {{10}}-<br>Muddy, {{11}}-seeming, thick, bereft of {{12}};<br>And while it is so, none so {{13}} or thirsty<br>Will deign to {{14}} or touch one drop of {{15}}.<br>Thy {{16}} is thy lord, thy life, thy keeper, <br>Thy {{17}}, thy {{18}}; one that {{19}} for thee,<br>And for thy {{20}} commits his body<br>To painful labour both by {{21}} and {{22}},<br>To {{23}} the night in storms, the day in cold,<br>Whilst thou liest {{24}} at home, secure and {{25}};<br>And craves no other tribute at thy {{26}}<br>But love, {{27}} looks, and true {{28}}-<br>Too little payment for so great a debt."
+}

@@ -1,0 +1,15 @@
+{
+  "inputs": [
+    "ADJECTIVE",
+    "NOUN",
+    "VERB",
+    "VERB ENDING IN \"ING\"",
+    "NOUN (PLURAL)",
+    "BODY PART",
+    "VERB ENDING IN \"ING\"",
+    "VERB ENDING IN \"ED\"",
+    "NUMBER",
+    "VERB"
+  ],
+  "output": "You are my {{1}} love. You have me completely in your {{2}}. I know and feel that if I am to {{3}} anything fine and noble in the future I shall do so only by {{4}} at the {{5}} of your heart. I would like to go through life {{6}} by {{6}} with you, {{8}} you more and more until we {{9}} to be {{10}} being(s) together until the hour should come for us to {{11}}."
+}

@@ -1,0 +1,23 @@
+{
+  "inputs": [
+    "ADJECTIVE",
+    "ADJECTIVE",
+    "NOUN (PLURAL)",
+    "NOUN",
+    "NOUN",
+    "ADJECTIVE",
+    "NOUN (PLURAL)",
+    "NOUN (PLURAL)",
+    "NOUN",
+    "OCCUPATION",
+    "NOUN",
+    "VERB",
+    "SCHOOL SUBJECT",
+    "ADJECTIVE",
+    "NOUN",
+    "VERB ENDING IN \"ING\"",
+    "BODY PART",
+    "OCCUPATION"
+  ],
+  "output": "\"Any intelligent fool can make things {{1}}, more {{2}}, and more violent. It takes a touch of genius -- and a lot of {{3}} -- to move in the opposite {{4}}.\""
+}

@@ -1,0 +1,16 @@
+{
+  "inputs": [
+    "NAME OF PERSON IN ROOM",
+    "VERB",
+    "ADVERB",
+    "VERB ENDING IN \"S\"",
+    "ADJECTIVE",
+    "ADJECTIVE",
+    "NOUN",
+    "NOUN (PLURAL)",
+    "VERB",
+    "NOUN (PLURAL)",
+    "NOUN"
+  ],
+  "output": "<i><b>Inigo:</b></i> That {{1}}, he can fuss."
+}

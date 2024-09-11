@@ -1,0 +1,18 @@
+{
+  "inputs": [
+    "NAME OF PERSON IN ROOM",
+    "VERB ENDING IN \"ING\"",
+    "VERB",
+    "NOUN (PLURAL)",
+    "ADJECTIVE",
+    "ADJECTIVE",
+    "NOUN (PLURAL)",
+    "PLACE",
+    "VERB ENDING IN \"ED\"",
+    "EMOTION",
+    "ADVERB",
+    "ADJECTIVE",
+    "NOUN"
+  ],
+  "output": "Batman is {{1}}. Teenager {{1}} was traumatized by {{3}} his parent`s murder and vowed to {{4}} their deaths by bringing the {{5}} to justice. {{1}} used his {{7}} fortune to study criminology, to train his body to {{8}} perfection, and to acquire high tech vehicles and {{9}} to fight crime in his hometown of {{10}}. One night {{1}} was {{12}} by a bat outside his window and decided to dress himself as a \"bat man\" to strike {{13}} in the \"{{14}} and {{15}}\" hearts of {{5}}. From that moment forward, {{1}} became \"Batman\" in his altered {{18}}."
+}

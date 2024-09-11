@@ -1,0 +1,24 @@
+{
+  "inputs": [
+    "ANIMAL",
+    "ADJECTIVE",
+    "VERB",
+    "ADJECTIVE",
+    "NOUN",
+    "VERB",
+    "OCCUPATION",
+    "VERB",
+    "ADJECTIVE",
+    "NOUN",
+    "VERB ENDING IN \"ED\"",
+    "VERB ENDING IN \"ING\"",
+    "NOUN",
+    "NOUN",
+    "VERB",
+    "VERB",
+    "NOUN",
+    "ADJECTIVE",
+    "VERB"
+  ],
+  "output": "My {{1}} now is sharp and passing {{2}}.<br>And till she {{3}} she must not be {{4}}-gorg`d,<br>For then she never looks upon her {{5}}.<br>Another way I have to {{6}} my haggard,<br>To make her come, and know her {{7}}`s call,<br>That is, to {{8}} her, as we {{8}} these kites<br>That bate and beat, and will not be {{10}}.<br>She eat no {{11}} to-day, nor none shall eat;<br>Last night she {{12}} not, nor to-night she shall not;<br>As with the {{11}}, some undeserved fault<br>I`ll find about the {{14}} of the bed;<br>And here I`ll fling the pillow, there the {{15}},<br>This way the {{16}}, another way the sheets;<br>Ay, and amid this hurly I intend<br>That all is done in reverend care of her-<br>And, in conclusion, she shall {{8}} all night;<br>And if she chance to nod I`ll {{18}} and {{19}}<br>And with the clamour keep her still awake.<br>This is a way to kill a {{20}} with kindness,<br>And thus I`ll curb her mad and {{21}} humour.<br>He that knows better how to tame a shrew,<br>Now let him {{22}}; `tis charity to show."
+}

@@ -1,0 +1,21 @@
+{
+  "inputs": [
+    "NOUN",
+    "ADVERB",
+    "NUMBER",
+    "ANIMAL (PLURAL)",
+    "ADJECTIVE",
+    "NUMBER",
+    "NOUN",
+    "VERB ENDING IN \"S\"",
+    "ADJECTIVE",
+    "ADJECTIVE",
+    "VERB ENDING IN \"ING\"",
+    "VERB ENDING IN \"S\"",
+    "ADJECTIVE",
+    "NOUN",
+    "VERB ENDING IN \"ED\"",
+    "LENGTH OF TIME"
+  ],
+  "output": "New this year to the olympics is the sport of {{1}} tag. People {{2}} compare this sport to that of the {{3}} meter relay.  The sport is played where four {{4}} are each given a standard {{1}} with voice mail access in seperate {{6}} rooms from the other players.  Each of the team members on a team is given {{7}} words on a {{8}}.  The timer {{9}} when the {{10}} player on a team picks up the {{1}} to leave a voice mail for the {{12}} person, {{13}} the first word on the {{8}}.  As the event progresses, each person {{15}} one word from their {{8}}, until finally, the {{17}} person has left a voice mail for the {{10}} person with all of the words on it.  At this point, the {{10}} person must type the {{8}} of words into a {{21}} and submit it to the judges.  The score is {{22}} upon speed and accuracy, with a {{23}} handicap for every incorrect word at the end."
+}

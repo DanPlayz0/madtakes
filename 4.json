@@ -1,0 +1,16 @@
+{
+  "inputs": [
+    "MONTH",
+    "NUMBER",
+    "HOLIDAY",
+    "NOUN (PLURAL)",
+    "VERB ENDING IN \"ED\"",
+    "NOUN (PLURAL)",
+    "VERB",
+    "NOUN",
+    "NOUN",
+    "NOUN",
+    "OCCUPATION"
+  ],
+  "output": "On {{1}} {{2}} every year, we celebrate {{3}}. All the {{4}} get {{5}} up in {{6}} and {{7}} all over the {{8}}. Many people love to eat their favorite {{9}} or {{10}} much to their {{11}}`s dismay."
+}

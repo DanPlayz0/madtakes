@@ -1,0 +1,16 @@
+{
+  "inputs": [
+    "ADJECTIVE",
+    "ADJECTIVE",
+    "OCCUPATION",
+    "ANIMAL (PLURAL)",
+    "ANIMAL",
+    "NOUN",
+    "NOUN (PLURAL)",
+    "ADJECTIVE",
+    "KITCHEN APPLIANCE",
+    "VERB",
+    "SILLY WORD"
+  ],
+  "output": "The {{1}} {{2}} {{3}} {{4}} are 4 {{4}} who are lead by a/an {{6}} in the fight against {{7}}. They strive to protect {{8}} from all violence, but their most {{9}} enemy is the dreaded {{10}}. They also love to {{11}} Pizza! {{12}}, dude!"
+}

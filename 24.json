@@ -1,0 +1,20 @@
+{
+  "inputs": [
+    "NOUN (PLURAL)",
+    "VERB ENDING IN \"S\"",
+    "NOUN",
+    "NOUN (PLURAL)",
+    "NOUN",
+    "GOVERNMENT POSITION",
+    "NOUN",
+    "ADJECTIVE",
+    "OCCUPATION",
+    "NOUN",
+    "ADJECTIVE",
+    "NOUN (PLURAL)",
+    "RELATIONSHIP  (MOTHER, BROTHER, AUNT...)",
+    "PART OF THE BODY",
+    "CHEMICAL"
+  ],
+  "output": "<i>Star {{1}}: The Empire {{2}} Back</i> is a thrilling movie ranging from the {{3}} fields of the planet Hoth to the {{4}} of Dagobah, and ends in {{5}} City of the planet Bespin. Han, {{6}} Leia, and the droids escape from Hoth on the damaged {{7}} Millenium Falcon. However, soon after escaping, the {{8}} Darth Vader captures them on Bespin. Meanwhile, Luke {{9}}, in a bid to strengthen his knowledge of the {{10}}, finds Yoda, one of the most {{11}} Jedis ever, on the planet Dagobah. While there, Luke trains as a Jedi, but learns his {{12}} are in danger and heads to Bespin. While attempting to be the hero, he learns that Vader is his {{13}}, loses his {{14}}, and is rescued himself. It ends with Han frozen in {{15}} and the Rebels on the run."
+}

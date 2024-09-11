@@ -1,0 +1,28 @@
+{
+  "inputs": [
+    "VERB",
+    "NOUN",
+    "NOUN (PLURAL)",
+    "VERB ENDING IN \"ED\"",
+    "ADJECTIVE",
+    "VERB ENDING IN \"ING\"",
+    "ADJECTIVE",
+    "NOUN",
+    "ADJECTIVE",
+    "ADVERB",
+    "VERB ENDING IN \"ING\"",
+    "NOUN",
+    "ADJECTIVE",
+    "NOUN (PLURAL)",
+    "ANIMAL",
+    "VERB ENDING IN \"ING\"",
+    "NOUN",
+    "ADJECTIVE",
+    "NOUN",
+    "ADJECTIVE",
+    "NOUN",
+    "VERB ENDING IN \"ING\"",
+    "ADJECTIVE"
+  ],
+  "output": "I Really {{1}} {{2}}-Mart. For so many {{3}}. I first {{4}} them for the {{5}} location decisions they make, {{6}} small business and monopolizing {{7}} {{8}} economies. Related to that, I {{1}} their whole {{10}}-box development scheme, although {{2}}-Mart is {{12}} not alone in this. But apparently they are notorious for {{13}} to a newer {{14}} in the same area, but still controlling their {{15}} site so that none of their {{16}} can use the space - leaving an {{17}} shell behind. And then of course all of their low-{{18}}, high-turnover, {{19}}-busting, {{20}}-harassing, non-{{21}}-{{18}}, {{23}}-{{24}}-{{25}} personnel practices. Not to mention they`re just waaay too {{26}}."
+}

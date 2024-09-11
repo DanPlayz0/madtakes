@@ -1,0 +1,28 @@
+{
+  "inputs": [
+    "OCCUPATION",
+    "OCCUPATION",
+    "NOUN",
+    "VERB ENDING IN \"ING\"",
+    "ADJECTIVE",
+    "VERB ENDING IN \"ING\"",
+    "ADJECTIVE",
+    "ADJECTIVE",
+    "FAMOUS PERSON",
+    "VERB ENDING IN \"ED\"",
+    "FOOD",
+    "VERB",
+    "VERB ENDING IN \"S\"",
+    "ADJECTIVE",
+    "NOUN",
+    "NOUN",
+    "VERB",
+    "VERB ENDING IN \"ED\"",
+    "NOUN (PLURAL)",
+    "VERB",
+    "NOUN",
+    "NOUN",
+    "VERB"
+  ],
+  "output": "<br>I shot the {{1}}, but I did not shoot the {{2}}.<br>I shot the {{1}}, but I did not shoot the {{2}}."
+}

@@ -1,0 +1,17 @@
+{
+  "inputs": [
+    "NOUN",
+    "VERB",
+    "VERB",
+    "VERB",
+    "PLURAL NOUN",
+    "VERB ENDING IN ED",
+    "VERB",
+    "CONJUNCTION",
+    "NOUN",
+    "BODY OF WATER",
+    "PLACE",
+    "NUMBER"
+  ],
+  "output": "Me and Nicole are best {{1}}.<br>We {{2}} and {{3}} and {{4}} with each {{5}}.<br>We get {{6}} but we still {{7}}, nothing will change {{8}} all will be the same.<br>Now it`s time to say good-bye to {{9}} and I.<br>We have set sail on the {{10}} and went to the {{11}}.<br>while there we found the square root of {{12}}."
+}

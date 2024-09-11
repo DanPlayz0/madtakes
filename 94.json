@@ -1,0 +1,21 @@
+{
+  "inputs": [
+    "VERB",
+    "ADJECTIVE",
+    "SILLY WORD",
+    "NUMBER",
+    "NOUN",
+    "ADJECTIVE",
+    "NOUN",
+    "OCCUPATION",
+    "AMOUNT OF TIME",
+    "VERB",
+    "PLACE",
+    "VERB ENDING IN \"ED\"",
+    "NOUN (PLURAL)",
+    "ADJECTIVE",
+    "VERB ENDING IN \"ING\"",
+    "VERB"
+  ],
+  "output": "Good morning, Mr. Hunt. Your mission, should you choose to {{1}} it, involves the recovery of a {{2}} item designated \"{{3}}.\" You may select any {{4}} {{5}} members, but it is {{6}} that the third member of your {{5}} be Nyah Nordoff-Hall. She is a {{8}}, and a highly capable professional {{9}}. You have {{10}} to {{11}} Miss Hall and meet me in {{12}} to receive your assignment. As always, should any member of your {{5}} be caught or {{14}}, the Secretary will disavow all knowledge of your {{15}}. And Mr. Hunt, the next time you go on holiday, please be {{16}} enough to let us know where you`re {{17}}. This message will self-{{18}} in five seconds."
+}

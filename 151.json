@@ -1,0 +1,27 @@
+{
+  "inputs": [
+    "FAMOUS PERSON (MALE)",
+    "SPORT",
+    "NATIONALITY",
+    "NOUN",
+    "ADJECTIVE",
+    "FAMOUS PERSON (FEMALE)",
+    "VERB ENDING IN \"ED\"",
+    "NOUN (PLURAL)",
+    "VERB ENDING IN \"ING\"",
+    "VERB ENDING IN \"ED\"",
+    "VERB",
+    "NOUN",
+    "ADJECTIVE",
+    "NOUN (PLURAL)",
+    "ADJECTIVE",
+    "ADJECTIVE",
+    "NOUN (PLURAL)",
+    "NOUN",
+    "NOUN",
+    "NOUN",
+    "NAME OF PERSON IN ROOM",
+    "NAME OF PERSON IN ROOM"
+  ],
+  "output": "<b>{{1}}:</b> Here we are again for Olympic pairs {{2}}. These are the {{3}} skaters.  This {{4}} is {{5}}.<br><b>{{6}}:</b> They {{7}} their {{8}} yesterday.  She wasn`t even {{9}} to him all day, not even when they {{10}}.<br><b>{{1}}:</b> Well, they`re going to have to {{12}} together right now. Their {{13}} is {{14}} and their {{15}} are very {{16}}.<br><b>{{6}}:</b> Oh, look -- here come the {{18}} {{19}}. I`m concerned with their {{20}}.  Oh, no!  They`ll never get a {{21}} with that {{22}}.  I`m afraid it`s all over for {{23}} and {{24}}."
+}

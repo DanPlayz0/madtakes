@@ -1,0 +1,21 @@
+{
+  "inputs": [
+    "HOLIDAY",
+    "ADJECTIVE",
+    "OCCUPATION (PLURAL)",
+    "VERB ENDING IN \"ING\"",
+    "VERB ENDING IN \"ING\"",
+    "NOUN (PLURAL)",
+    "NOUN (PLURAL)",
+    "OCCUPATION (PLURAL)",
+    "VERB ENDING IN \"ING\"",
+    "NOUN (PLURAL)",
+    "ADJECTIVE",
+    "VERB ENDING IN \"ING\"",
+    "NATIONALITY",
+    "NOUN (PLURAL)",
+    "ANIMAL",
+    "NOUN"
+  ],
+  "output": "On the twelfth day of {{1}},<br>my {{2}} love sent to me <br>Twelve {{3}} {{4}},<br>Eleven pipers {{5}},<br>Ten {{6}} a leaping,<br>Nine {{7}} dancing,<br>Eight {{8}} a milking,<br>Seven swans a {{9}},<br>Six {{10}} a laying,<br>Five {{11}} rings,<br>Four {{12}} birds,<br>Three {{13}} Hens,<br>Two turtle {{14}},<br>And a/an {{15}} in a/an {{16}} tree."
+}

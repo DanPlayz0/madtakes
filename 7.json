@@ -1,0 +1,13 @@
+{
+  "inputs": [
+    "COMPANY",
+    "NOUN",
+    "ADJECTIVE",
+    "NOUN (PLURAL)",
+    "NOUN",
+    "ADJECTIVE",
+    "NOUN ENDING IN \"ERS\"",
+    "NOUN (PLURAL)"
+  ],
+  "output": "\"Without doubt {{1}} has left its {{2}} with us as some of the most {{3}} {{4}} on the {{5}}... This {{4}} that we highly recommend for {{7}} {{8}} and high-end {{9}}.\""
+}

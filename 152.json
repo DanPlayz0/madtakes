@@ -1,0 +1,25 @@
+{
+  "inputs": [
+    "NOUN",
+    "FAST FOOD RESTURANT",
+    "NUMBER",
+    "ADVERB",
+    "ADJECTIVE",
+    "EXCLAMATION",
+    "ADJECTIVE",
+    "FOOD",
+    "FOOD (PLURAL)",
+    "VERB",
+    "ADJECTIVE",
+    "ADJECTIVE",
+    "ADJECTIVE",
+    "EXCLAMATION",
+    "NOUN",
+    "NOUN",
+    "BODY PART (PLURAL)",
+    "BODY PART (PLURAL)",
+    "ADVERB",
+    "ADJECTIVE"
+  ],
+  "output": "He said to her I`d like a cheeseburger<br>And I might like a {{1}} as well<br>She said to him, \"I can`t give you either\"<br>And he said, \"Isn`t this {{2}}?\"<br>She said, \"Yes it is, but we`re closed now,<br>But we open tomorrow at {{3}}.\"<br>He said, \"I am {{4}} hungry.\",<br>But I guess I can wait until then.\""
+}

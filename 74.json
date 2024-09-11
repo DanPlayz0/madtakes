@@ -1,0 +1,18 @@
+{
+  "inputs": [
+    "VERB",
+    "PLURAL NOUN",
+    "NOUN",
+    "NOUN",
+    "NOUN",
+    "VERB",
+    "PLURAL NOUN",
+    "VERB ENDING IN \"ING\"",
+    "VERB",
+    "NAME OF PERSON IN ROOM",
+    "COLOR",
+    "PLURAL NOUN",
+    "VERB"
+  ],
+  "output": "{{1}} your {{2}} away, <br>Worry`s for another {{3}}. <br>Let the {{4}} play, <br>Down at Fraggle {{5}}."
+}

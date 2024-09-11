@@ -1,0 +1,22 @@
+{
+  "inputs": [
+    "MATERIAL",
+    "BODY PART",
+    "ADJECTIVE",
+    "VERB",
+    "VERB ENDING IN \"S\"",
+    "ADJECTIVE",
+    "PLURAL NOUN",
+    "BODY PART",
+    "VERB",
+    "PERSON IN THE ROOM",
+    "VERB ENDING IN \"S\"",
+    "PLACE",
+    "VERB ENDING IN \"S\"",
+    "VERB ENDING IN \"S\"",
+    "ADJECTIVE",
+    "ITEM OF CLOTHING",
+    "VERB ENDING IN \"ING\""
+  ],
+  "output": "I AM {{1}} MAN"
+}

@@ -1,0 +1,25 @@
+{
+  "inputs": [
+    "VERB ENDING IN \"ING\"",
+    "BODY PART",
+    "VERB",
+    "VERB",
+    "ADJECTIVE",
+    "ADJECTIVE",
+    "BODY PART (PLURAL)",
+    "ADJECTIVE",
+    "ADJECTIVE",
+    "NOUN",
+    "NOUN",
+    "VERB",
+    "VERB",
+    "ADJECTIVE",
+    "VERB",
+    "VERB",
+    "TIME SPAN",
+    "NOUN",
+    "ADJECTIVE",
+    "VERB"
+  ],
+  "output": "Come, stop your {{1}}, it will be all right<br>Just take my {{2}}, hold it tight<br>I will {{3}} you from all around you<br>I will be here don`t you {{4}}"
+}

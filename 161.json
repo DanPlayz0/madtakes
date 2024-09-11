@@ -1,0 +1,17 @@
+{
+  "inputs": [
+    "NOUN",
+    "VERB",
+    "NOUN",
+    "VERB ENDING IN \"ED\"",
+    "NOUN",
+    "VERB",
+    "NOUN",
+    "ADJECTIVE",
+    "NOUN",
+    "ADJECTIVE",
+    "VERB ENDING IN \"ED\"",
+    "BODY PART"
+  ],
+  "output": "I have to wonder if this {{1}}`s too big to ride<br>{{2}} or not {{2}} in such a crazy {{4}}<br>It`s sooner than I thought but you {{5}} me out<br>I`ve lost control and there`s no {{6}}<br>I`m gonna {{7}} all over"
+}

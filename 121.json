@@ -1,0 +1,20 @@
+{
+  "inputs": [
+    "ADJECTIVE",
+    "ADJECTIVE",
+    "NUMBER",
+    "FAMOUS PERSON",
+    "NOUN(PLURAL)",
+    "BODY PART",
+    "NOUN",
+    "SERIAL KILLER",
+    "BODY PART(PLURAL)",
+    "ADJECTIVE",
+    "ADJECTIVE",
+    "NOUN",
+    "NUMBER",
+    "NOUN",
+    "NUMBER"
+  ],
+  "output": "Robert Forester was a {{1}} man. He was alway a {{2}} type of man. He never hurt anyone... Until {{3}} years ago. He was even the one who killed {{4}}! He used different things to murder people with. Even {{5}}! He once even shoved a mans {{6}} into a {{7}}. He was inspired by {{8}}. He took souveniors from his victoms, such as {{9}}. He then was caught by a {{10}} police man because of the {{11}} smell coming from his {{12}}. He had over {{13}} bodies in his {{14}}. He was sent to prison for {{15}} life terms."
+}

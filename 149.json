@@ -1,0 +1,18 @@
+{
+  "inputs": [
+    "ADJECTIVE",
+    "ANIMAL",
+    "ADJECTIVE",
+    "NAME",
+    "ADJECTIVE",
+    "ADJECTIVE",
+    "ADJECTIVE",
+    "ADJECTIVE",
+    "VERB ENDING IN \"ED\"",
+    "VERB ENDING IN \"ED\"",
+    "NOUN",
+    "VERB",
+    "FAMOUS PERSON"
+  ],
+  "output": "Once, there was a/an {{1}} {{2}} and his {{3}} owner, {{4}}. The owner, {{4}}, thought his {{2}} was very {{7}}. The {{2}} disagreed. The {{2}} thought he was very {{10}} and {{11}} {{12}}. The {{2}} {{14}} the owner; the owner had no idea the {{2}} could speak! The owner {{16}} out of his {{17}} in amazement! \"Yeah, I can {{18}},\" said the {{2}}. \"Yeah,\" said the owner. \"You {{18}} just like {{21}}!\""
+}

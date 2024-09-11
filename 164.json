@@ -1,0 +1,31 @@
+{
+  "inputs": [
+    "NOUN",
+    "VERB",
+    "VERB",
+    "NOUN (PLURAL)",
+    "NOUN (PLURAL)",
+    "NOUN (PLURAL)",
+    "NOUN",
+    "VERB ENDING IN \"ED\"",
+    "ADJECTIVE",
+    "PERSON",
+    "ADJECTIVE",
+    "EMOTION",
+    "VERB ENDING IN \"ED\"",
+    "NOUN",
+    "VERB",
+    "VERB",
+    "NOUN",
+    "VERB",
+    "EMOTION",
+    "VERB ENDING IN \"ED\"",
+    "NOUN",
+    "ADVERB",
+    "NOUN",
+    "ADVERB",
+    "NOUN",
+    "VERB ENDING IN \"ED\""
+  ],
+  "output": "My {{1}} will not be repressed. You must allow me to {{2}} you how ardently I {{3}} and love you.  In declaring myself thus I`m aware that I will be going expressly against the {{4}} of my family,  my {{5}}, and, I hardly need add, my own better judgement.  The relative situation of our {{6}} makes any alliance between us a reprehensible connection.  As a rational {{7}} I cannot but regard it as such myself, but it cannot be {{8}}.  Almost from the {{9}} moments, I have come to feel for {{10}}..."
+}

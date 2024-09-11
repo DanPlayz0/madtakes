@@ -1,0 +1,28 @@
+{
+  "inputs": [
+    "BODY PART",
+    "NUMBER",
+    "VERB",
+    "VERB ENDING IN \"ED\"",
+    "NOUN",
+    "ADJECTIVE",
+    "NOUN",
+    "ADJECTIVE",
+    "NOUN",
+    "TYPE OF MEASURMENT",
+    "FRACTION",
+    "NUMBER",
+    "ANIMAL",
+    "NOUN",
+    "VERB",
+    "NOUN",
+    "VERB ENDING IN \"ING\"",
+    "NOUN",
+    "ADJECTIVE",
+    "NUMBER",
+    "NUMBER",
+    "VERB",
+    "NUMBER"
+  ],
+  "output": "Chop the {{1}} from one ten to {{2}} pound ready-to-{{3}} goose. Cook with one cup {{4}} onion and two {{5}} spoons butter till onion is {{6}} and {{1}} is done. Mix with five cups dried {{8}} cubes; 2 cups chopped {{9}} {{10}}; quarter cup snipped parsley; three quarters of a {{11}} dried sage, crushed; half teaspoon salt; and {{12}} teaspoon pepper. Mix {{13}} beaten eggs and one half cup {{14}} broth; toss with bread mixture. Use to fill {{15}} cavity. {{16}} legs together; {{16}} to tail. Prick legs and wings with {{18}}. Place on rack in shallow {{19}} pan. Insert {{20}} thermometer in center of inside {{21}} muscle without touching bone. Roast at {{22}} degrees till thermometer registers 185 degrees for two to {{23}} hours; {{24}} off fat. Serves ten to {{25}}."
+}

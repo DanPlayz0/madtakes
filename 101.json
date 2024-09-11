@@ -1,0 +1,14 @@
+{
+  "inputs": [
+    "LATIN NAME IN NOM. CASE",
+    "NOM SING. NOUN",
+    "ACC. PL. NOUN",
+    "ACC. PL. NOUN",
+    "ACC. SING. PLACE",
+    "INFINITIVE",
+    "ACC. SING. NOUN",
+    "INFINITIVE",
+    "ACC. SING. NOUN"
+  ],
+  "output": "{{1}} est {{2}}.  {{1}} {{4}} amat, sed {{5}} odiat.  {{1}} navigat ad {{7}}, ubi amat {{8}} {{9}} et {{10}} {{11}}."
+}

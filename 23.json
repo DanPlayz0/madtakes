@@ -1,0 +1,11 @@
+{
+  "inputs": [
+    "VERB ENDING IN \"ING\"",
+    "NOUN",
+    "PART OF THE BODY",
+    "VERB",
+    "ANIMAL",
+    "VERB ENDING IN \"ED\""
+  ],
+  "output": "I was {{1}} down the hallway and some {{2}} grabbed my {{3}}, and I turned to him and said \"so help me, if you {{4}} me again you will go the way of the {{5}}.\" And then he {{6}} away."
+}

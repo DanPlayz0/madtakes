@@ -1,0 +1,16 @@
+{
+  "inputs": [
+    "ADJECTIVE",
+    "NOUN",
+    "ADJECTIVE",
+    "ANIMAL",
+    "VERB ENDING IN \"ING\"",
+    "NOUN (PLURAL)",
+    "OCCUPATION",
+    "NOUN (PLURAL)",
+    "NOUN (PLURAL)",
+    "NOUN",
+    "NOUN"
+  ],
+  "output": "Robert Jordan is probably most known for his {{1}} series, The Wheel of Time, consisting of the books <i>The {{2}} of the World</i>, <i>The {{3}} Hunt</i>, <i>The {{4}} Reborn</i>, <i>The Shadow {{5}}</i>, <i>The {{6}} of Heaven</i>, <i>{{7}} of Chaos</i>, <i>A Crown of {{8}}</i>, <i>The Path of {{9}}</i>, <i>{{10}}`s Heart</i>, and <i>Crossroads of {{11}}</i>."
+}

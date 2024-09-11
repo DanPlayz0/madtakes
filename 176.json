@@ -1,0 +1,15 @@
+{
+  "inputs": [
+    "COLOR",
+    "SUPERLATIVE (ENDING IS \"EST\")",
+    "ADJECTIVE",
+    "BODY PART (PLURAL)",
+    "BODY PART",
+    "NOUN",
+    "ANIMAL (PLURAL)",
+    "ADJECTIVE",
+    "ADJECTIVE",
+    "ADJECTIVE"
+  ],
+  "output": "The {{1}} Dragon is the {{2}} Dragon of all. It has {{3}} {{4}}, and a {{5}} shaped like a {{6}}. It loves to eat {{7}}, although it will feast on nearly anything. It is {{8}} and {{9}}. You must be {{10}} around it, or you may end up as it`s meal!"
+}

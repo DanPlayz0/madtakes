@@ -1,0 +1,18 @@
+{
+  "inputs": [
+    "NOUN",
+    "ADJECTIVE",
+    "NOUN (PLURAL)",
+    "FAMOUS PERSON",
+    "PLACE",
+    "VERB ENDING IN \"ING\"",
+    "ADJECTIVE",
+    "YOUR FAVORITE SONG",
+    "VERB ENDING IN \"ED\"",
+    "ADVERB",
+    "VERB ENDING IN \"ING\"",
+    "NAME OF SUPERMODEL",
+    "ADJECTIVE"
+  ],
+  "output": "Once upon a time there was a {{1}}. It had {{2}} {{3}}! One day it met {{4}} on the side of the {{5}} they were {{6}}. It was very {{7}}; they both looked like hobos! All of the sudden they started singing {{8}} really loudly. They {{9}} really {{10}}! {{4}} started {{12}} with {{13}}. They looked really {{14}}!"
+}

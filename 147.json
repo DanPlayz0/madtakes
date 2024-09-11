@@ -1,0 +1,19 @@
+{
+  "inputs": [
+    "NOUN",
+    "NOUN",
+    "VERB ENDING IN \"ED\"",
+    "ADJECTIVE",
+    "VERB ENDING IN \"ED\"",
+    "VERB ENDING IN \"S\"",
+    "ADJECTIVE",
+    "NOUN",
+    "NOUN (PLURAL)",
+    "NUMBER",
+    "BODY PART",
+    "ADJECTIVE",
+    "NOUN",
+    "LIQUID"
+  ],
+  "output": "<div align=\"left\">(<i>Scene: Joey and Rachel`s apartment</i>)"
+}

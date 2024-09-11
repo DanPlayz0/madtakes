@@ -1,0 +1,21 @@
+{
+  "inputs": [
+    "VERB",
+    "VERB",
+    "NOUN (PLURAL)",
+    "NOUN (PLURAL)",
+    "LIQUID",
+    "BODY PART",
+    "OCCUPATION",
+    "NOUN (PLURAL)",
+    "NOUN (PLURAL)",
+    "VERB",
+    "BODY PART (PLURAL)",
+    "VERB",
+    "EXCLAIMATION",
+    "VERB",
+    "NOUN",
+    "VERB ENDING IN \"S\""
+  ],
+  "output": "\"You {{1}} for me, you get to {{2}} the English.\""
+}

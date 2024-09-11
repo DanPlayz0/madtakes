@@ -1,0 +1,14 @@
+{
+  "inputs": [
+    "ADJECTIVE",
+    "VERB",
+    "BODY PART",
+    "ADJECTIVE",
+    "FOOD",
+    "VERB ENDING IN \"S\"",
+    "NOUN",
+    "NOUN",
+    "ADJECTIVE"
+  ],
+  "output": "\"A woman`s advice is no {{1}} thing, but he who won`t {{2}} it is a fool.\""
+}

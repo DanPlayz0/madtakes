@@ -1,0 +1,27 @@
+{
+  "inputs": [
+    "NOUN",
+    "ANIMAL",
+    "MODE OF TRANSPORTATION (PLURAL)",
+    "NOUN (PLURAL)",
+    "VERB",
+    "SCHOOL SUBJECT",
+    "ADJECTIVE",
+    "ADJECTIVE",
+    "NOUN",
+    "VERB",
+    "ADJECTIVE",
+    "ADJECTIVE",
+    "NOUN (PLURAL)",
+    "TYPE OF MATERIAL",
+    "VERB ENDING IN \"ED\"",
+    "NOUN",
+    "ADJECTIVE",
+    "VERB ENDING IN \"S\"",
+    "NOUN (PLURAL)",
+    "NOUN (PLURAL)",
+    "NOUN (PLURAL)",
+    "TYPE OF MATERIAL"
+  ],
+  "output": "Life is like a {{1}} here in {{2}}burg <br>Race {{3}}, lasers, {{4}} - it`s a {{2}} blur <br>You might {{6}} a mystery or rewrite {{7}} <br> <br>{{2}} Tales, Oo-oo <br>Tales of {{9}}-do, bad and {{10}} luck tales, oo-oo <br> <br>D-d-d-danger, watch behind you - there`s a {{11}} out to {{12}} you <br>Tales of {{13}}-do, bad and {{14}} luck tales, oo-oo <br>Not pony {{15}} or {{16}} tails but {{2}} Tales, oo-oo! <br> <br>When it seems they`re {{18}} for the final {{19}} <br>{{20}} deduction never {{21}}, that`s for certain <br>The worst of {{22}} become {{23}}! <br> <br>{{2}} Tales, Oo-oo <br>Tales of {{13}}-do, bad and {{14}} luck tales, oo-oo <br>Not pony {{27}} or {{28}} tails but {{2}} Tales, oo-oo!"
+}

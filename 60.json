@@ -1,0 +1,21 @@
+{
+  "inputs": [
+    "NOUN",
+    "AN INSTITUTION",
+    "NUMBER",
+    "ADJECTIVE",
+    "OCCUPATION",
+    "INSULTING NAME",
+    "FEMALE CELEBRITY",
+    "ADJECTIVE",
+    "OCCUPATION",
+    "FAMOUS DISLIKED CELEBRITY",
+    "ADJECTIVE",
+    "ADVERB",
+    "ADJECTIVE",
+    "PLURAL NOUN",
+    "OCCUPATION (PLURAL)",
+    "FAMOUS MOVIE QUOTE"
+  ],
+  "output": "Dear {{1}},<br>Today was my first day at {{2}}. It was so horrible! I only met {{3}} people...and very few of them seemed to strike up any intrest. A/An {{4}} {{5}} called me a/an {{6}}, and then this girl named {{7}} laughed at my {{8}} outfit. I can`t believe what happened today. Anyway, I did enjoy some of it. I met this one {{9}} named {{10}}. This person was super {{11}}. I think we`ll {{12}} become {{13}} {{14}}. Maybe tomorrow will be better. After all, it was only the first day. Well I think I will leave you with what one of my {{15}} said to me. \"{{16}}\""
+}

@@ -1,0 +1,25 @@
+{
+  "inputs": [
+    "VERB",
+    "NOUN",
+    "ADJECTIVE",
+    "TYPE OF VEHICLE",
+    "VERB ENDING IN \"ING\"",
+    "NOUN",
+    "OCCUPATION",
+    "ADJECTIVE",
+    "NOUN (PLURAL)",
+    "NUMBER",
+    "NOUN",
+    "ADJECTIVE",
+    "VERB ENDING IN \"ED\"",
+    "NOUN",
+    "NOUN (PLURAL)",
+    "ANIMAL",
+    "ADJECTIVE",
+    "NOUN",
+    "NOUN",
+    "NOUN"
+  ],
+  "output": "Just sit right back and you`ll {{1}} a tale,<br>A tale of a fateful {{2}},<br>That started from this {{3}} port,<br>Aboard this tiny {{4}}."
+}

@@ -1,0 +1,18 @@
+{
+  "inputs": [
+    "ANIMAL",
+    "NOUN",
+    "PLACE",
+    "NOUN (PLURAL)",
+    "ADJECTIVE",
+    "BODY PART",
+    "NOUN",
+    "NOUN",
+    "VERB ENDING IN \"ED\"",
+    "ADJECTIVE",
+    "NOUN",
+    "VERB ENDING IN \"ED\"",
+    "ADVERB"
+  ],
+  "output": "Tommy the gangsta {{1}} was walking up the street to his {{2}} in the {{3}}. But just as he came inside he saw that all his gangsta {{4}} had been replaced with {{5}} stuff. He was so mad that he kicked his {{6}} and fell into the {{7}}. Then, when he got out he started searching all of the {{2}}. But after 5 hours of looking around he saw a {{9}} walking around with all his bling. So, Tommy stopped the fool, and {{10}} all the items that the {{9}} had stolen from him. \"What`s your problem you {{12}} {{13}}!! If you wanna be a gangsta buy your own bling, and clothes, don`t steal mine\" Tommy {{14}}. And then he went home and lived {{15}} ever after."
+}

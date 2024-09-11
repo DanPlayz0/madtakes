@@ -1,0 +1,13 @@
+{
+  "inputs": [
+    "NOUN",
+    "VERB ENDING IN \"ING\"",
+    "ANIMAL",
+    "ARTICLE OF CLOTHING",
+    "NOUN (PLURAL)",
+    "ADJECTIVE",
+    "NOUN",
+    "NOUN (PLURAL)"
+  ],
+  "output": "Yankee Doodle went to {{1}}, a-{{2}} on a {{3}}; <br>Stuck a feather in his {{4}} and called it {{5}}.  <br> <br>Yankee Doodle keep it up, Yankee Doodle {{6}}, <br>Mind the {{7}} and the step and with the {{8}} be handy. <br>"
+}

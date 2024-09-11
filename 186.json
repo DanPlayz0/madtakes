@@ -1,0 +1,16 @@
+{
+  "inputs": [
+    "NOUN (PLURAL)",
+    "PLACE",
+    "NOUN",
+    "NOUN (PLURAL)",
+    "NOUN",
+    "ADJECTIVE",
+    "VERB",
+    "NUMBER",
+    "ADJECTIVE",
+    "BODY PART",
+    "VERB"
+  ],
+  "output": "Two {{1}}, both alike in dignity,<br>In fair {{2}}, where we lay our scene,<br>From ancient {{3}} break to new mutiny,<br>Where civil blood makes civil hands unclean.<br>From forth the fatal loins of these two foes<br>A pair of star-cross`d {{4}} take their life;<br>Whole misadventured piteous overthrows<br>Do with their {{5}} bury their parents` strife.<br>The fearful passage of their {{6}} love,<br>And the continuance of their parents` rage,<br>Which, but their children`s end, nought could {{7}},<br>Is now the {{8}} hours` traffic of our stage;<br>The which if you with {{9}} {{10}} attend,<br>What here shall {{11}}, our toil shall strive to mend."
+}

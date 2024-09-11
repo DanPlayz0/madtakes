@@ -1,0 +1,15 @@
+{
+  "inputs": [
+    "NOUN(PLURAL)",
+    "ADJECTIVE",
+    "NOUN",
+    "NOUN(PLURAL)",
+    "NOUN(PLURAL)",
+    "NOUN",
+    "VERB ENDING IN \"S\"",
+    "NOUN",
+    "NOUN(PLURAL)",
+    "PERSONS NAME"
+  ],
+  "output": "It`s another day here at Waste Management, and I can`t wait to talk to all the {{1}}. I tell ya, sometimes these {{1}} can be very {{3}}. Ruth stops by everyone`s {{4}} and collects everybody`s {{5}}. Jenifer sits at her desk and clips {{6}} in her spare time. Heidi is the customer service {{7}}. She {{8}} new hires how to do their {{9}}. We had a meeting today about {{10}}. I love {{11}}!"
+}

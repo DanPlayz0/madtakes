@@ -1,0 +1,33 @@
+{
+  "inputs": [
+    "NUMBER",
+    "NOUN",
+    "ROMANTIC NICKNAME",
+    "OCCUPATION",
+    "NOUN (PLURAL)",
+    "NOUN",
+    "VERB ENDING IN \"S\"",
+    "NOUN",
+    "NUMBER",
+    "VERB",
+    "OCCUPATION",
+    "NOUN",
+    "NOUN (PLURAL)",
+    "ADJECTIVE",
+    "TYPE OF BUILDING",
+    "GOVERNMENT POSITION",
+    "VERB ENDING IN \"ED\"",
+    "ADJECTIVE",
+    "NOUN",
+    "ADJECTIVE",
+    "VERB",
+    "VERB ENDING IN \"ED\"",
+    "NOUN",
+    "ADJECTIVE",
+    "NOUN",
+    "NOUN",
+    "ADJECTIVE",
+    "NOUN"
+  ],
+  "output": "19{{1}}. At a swanky {{2}} in Hong Kong, {{3}} Jones confronts Lao Che, a Chinese {{4}}, for a trade - a reward in exchange for the {{5}} of a Ming dynasty emperor. The {{4}}`s sons, however, won`t let {{3}} get out of the trade alive, and a violent {{8}} ensues that {{9}} up the {{4}}`s moll, torch singer Wilhemina Scott. {{3}} and Willie escape with {{3}}`s pre-teen sidekick, Short Round, and fly out of Hong Kong - unaware their {{13}} belongs to Lao Che and the {{14}} pilots are ordered to bail out over India. {{3}}, Willie, and Shorty manage to {{16}} and wind up being greeted by a village {{17}} who shows them the ruins of his {{18}} - ruins caused by the theft of three {{19}} of great {{20}} power, taken to a gigantic mountaintop {{21}}. The {{21}}, however, belongs to a peaceful young Indian {{23}} who assures that no such action occurred from his {{21}}. {{3}}, however, is {{26}} in his bedroom and finds a vast {{27}} system of caverns that lead to an ancient terrorist {{28}} long thought {{29}}, a {{28}} that has kidnapped the children of the {{18}} and is using them to {{32}} for the {{20}} {{19}}. When {{3}} and his friends are captured they are to be {{36}} to the pit of molten {{37}}, but a {{38}} showdown begins that erupts into a savage {{39}}, {{40}}fire, a {{41}} minecar pursuit, the collapse of an {{27}} dam, and a showdown at a rope {{43}} that threatens to kill {{3}}, his friends, and the {{28}}."
+}

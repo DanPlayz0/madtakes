@@ -1,0 +1,18 @@
+{
+  "inputs": [
+    "FRUIT",
+    "NOUN",
+    "NAME",
+    "ADJECTIVE",
+    "COLOR",
+    "ADJECTIVE",
+    "ADJECTIVE",
+    "NOUN",
+    "VERB",
+    "VERB",
+    "NOUN",
+    "VERB",
+    "ANIMAL"
+  ],
+  "output": "<b>Captain:</b> Ohhhhh... who lives in a {{1}} under the {{2}}?"
+}

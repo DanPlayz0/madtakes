@@ -1,0 +1,16 @@
+{
+  "inputs": [
+    "ADJECTIVE",
+    "VERB ENDING IN \"ED\"",
+    "ADJECTIVE",
+    "ADJECTIVE",
+    "NOUN (PLURAL)",
+    "ADJECTIVE",
+    "NOUN (PLURAL)",
+    "VERB ENDING IN \"S\"",
+    "ADJECTIVE",
+    "VERB",
+    "NOUN"
+  ],
+  "output": "This {{1}} green tea is {{2}} with the highly {{3}}, {{4}} flavor of tart green {{5}} and the {{6}}, sweet flavor of orange {{7}}. This trio {{8}} up a refreshing {{9}} ritual - either {{10}} hot or over {{11}}."
+}

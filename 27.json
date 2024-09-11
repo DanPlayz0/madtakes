@@ -1,0 +1,12 @@
+{
+  "inputs": [
+    "FRUIT",
+    "NOUN (PLURAL)",
+    "NOUN",
+    "NOUN",
+    "NOUN (PLURAL)",
+    "NOUN",
+    "SILLY WORD"
+  ],
+  "output": "J.R.R. Tolkien has been thrust into the {{1}}-light yet again with the release of his famous trilogy <i>Lord of the {{2}}</i> as a {{3}} series. The three books, <i>{{4}} of the Ring</i>, <i>The Two {{5}}</i>, and <i>Return of the {{6}}</i>, are preceded by another book <i>The {{7}}</i>, which may also be filmed later on."
+}

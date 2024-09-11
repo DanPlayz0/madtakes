@@ -1,0 +1,20 @@
+{
+  "inputs": [
+    "NUMBER",
+    "OCCUPATION",
+    "OCCUPATION",
+    "PLACE",
+    "PERSON IN ROOM (MALE)",
+    "PLACE",
+    "OCCUPATION",
+    "BODY PART",
+    "ADJECTIVE",
+    "NOUN",
+    "BODY PART",
+    "CELEBRITY",
+    "VERB ENDING IN \"ING\"",
+    "ADVERB",
+    "VERB ENDING IN \"S\""
+  ],
+  "output": "{{1}} years after the end of Rush Hour 2, James Carter is no longer a {{2}}, but a {{3}} on the streets of {{4}}. Lee is now the bodyguard for his friend {{5}}. Lee is still upset with Carter about an incident in {{6}} when Carter accidentally shot Lee`s girlfriend, {{7}} Isabella Molina, in the {{8}}."
+}

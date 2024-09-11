@@ -1,0 +1,23 @@
+{
+  "inputs": [
+    "SOUND",
+    "VERB ENDING IN \"S\"",
+    "ADJECTIVE",
+    "VERB",
+    "COLOR",
+    "FAMOUS PERSON",
+    "NOUN",
+    "NOUN",
+    "VERB ENDING IN \"ING\"",
+    "VERB ENDING IN \"ING\"",
+    "NOUN",
+    "NOUN",
+    "ADVERB",
+    "NOUN",
+    "NOUN",
+    "VERB",
+    "VERB",
+    "TYPE OF MEASUREMENT"
+  ],
+  "output": "Every {{1}} {{2}} your name<br>Loud and {{3}} they {{4}} my claim<br>My {{5}} blood runs true blue<br>And every {{1}} belongs to {{7}}."
+}

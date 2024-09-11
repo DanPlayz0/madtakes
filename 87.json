@@ -1,0 +1,15 @@
+{
+  "inputs": [
+    "VERB",
+    "ADVERB",
+    "ADJECTIVE",
+    "NOUN (PLURAL)",
+    "NOUN (PLURAL)",
+    "ADJECTIVE",
+    "VERB ENDING IN \"ING\"",
+    "NOUN (PLURAL)",
+    "NOUN",
+    "WEAPON (PLURAL)"
+  ],
+  "output": "- {{1}} {{2}} without being {{3}}. <br>- The Universe does not have {{4}} -- it has {{5}}, and {{5}} can be {{7}}. <br>- The {{8}} of random {{9}} is too important to be left to chance.<br>- You can build a {{10}} with {{11}}, but you can`t sit on it for long."
+}

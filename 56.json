@@ -1,0 +1,22 @@
+{
+  "inputs": [
+    "VERB",
+    "NOUN",
+    "ADVERB (ENDS IN \"LY\")",
+    "VERB ENDING IN \"ING\"",
+    "ADJECTIVE",
+    "SHAPE (PLURAL)",
+    "NOUN",
+    "VERB ENDING IN \"ED\"",
+    "NOUN (PLURAL)",
+    "ADJECTIVE",
+    "VERB ENDING IN \"ING\"",
+    "NOUN",
+    "NOUN",
+    "VERB",
+    "ADJECTIVE",
+    "NOUN",
+    "ADJECTIVE"
+  ],
+  "output": "O say, can you {{1}}, by the dawn`s early {{2}},<br>What so {{3}} we hail`d at the twilight`s last {{4}}?<br>Whose {{5}} stripes and bright {{6}}, thro` the perilous {{7}},<br>O`er the ramparts we {{8}}, were so gallantly streaming?<br>And the {{9}}`s {{10}} glare, the bombs {{11}} in air,<br>Gave {{12}} thro` the night that our {{13}} was still there.<br>O say, does that {{6}}-spangled banner yet {{15}}<br>O`er the land of the {{16}} and the {{17}} of the {{18}}?"
+}

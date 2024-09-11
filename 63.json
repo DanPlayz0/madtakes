@@ -1,0 +1,21 @@
+{
+  "inputs": [
+    "TIME OF DAY",
+    "ADJECTIVE",
+    "NOUN",
+    "NOUN",
+    "VERB ENDING IN \"S\"",
+    "VERB",
+    "NOUN",
+    "NOUN",
+    "VERB ENDING IN \"S\"",
+    "BODY PART (PLURAL)",
+    "VERB ENDING IN \"ED\"",
+    "ADJECTIVE",
+    "ANIMAL",
+    "VERB",
+    "VERB ENDING IN \"ING\"",
+    "NOUN"
+  ],
+  "output": "It`s close to {{1}} and something {{2}}`s lurking in the {{3}}<br>Under the {{4}}light you see a sight that almost {{5}} your heart<br>You try to {{6}} but {{7}} takes the {{8}} before you make it<br>You start to freeze as horror {{9}} you right between the {{10}},<br>You`re {{11}}"
+}

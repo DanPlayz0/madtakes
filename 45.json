@@ -1,0 +1,23 @@
+{
+  "inputs": [
+    "ADJECTIVE",
+    "NOUN",
+    "VERB ENDING IN \"S\"",
+    "OCCUPATION",
+    "ADJECTIVE",
+    "NOUN (PLURAL)",
+    "VERB",
+    "NOUN",
+    "ANIMAL",
+    "NOUN (PLURAL)",
+    "NOUN",
+    "TYPE OF BUILDING",
+    "VERB",
+    "NOUN (PLURAL)",
+    "NOUN",
+    "NOUN (PLURAL)",
+    "ANIMAL",
+    "ADJECTIVE"
+  ],
+  "output": "Now the {{1}} {{2}} roars, <br>And the wolf {{3}} the moon;  <br>Whilst the heavy {{4}} snores, <br>All with {{5}} task fordone. <br>Now the wasted {{6}} do glow, <br>Whilst the {{7}}-owl, {{7}}-ing loud, <br>Puts the wretch that lies in woe <br>In remembrance of a {{9}}. <br>Now it is the time of {{10}} <br>That the {{11}}, all gaping wide, <br>Every one lets forth his {{12}}, <br>In the {{13}}-way paths to {{14}}. <br>And we {{15}}, that do run <br>By the triple Hecate`s {{16}} <br>From the presence of the sun, <br>Following {{17}} like a dream, <br>Now are frolic. Not a {{18}} <br>Shall disturb this {{19}} house."
+}

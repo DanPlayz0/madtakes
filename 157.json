@@ -1,0 +1,18 @@
+{
+  "inputs": [
+    "ANIMAL",
+    "VERB ENDING IN \"ING\"",
+    "NOUN",
+    "VERB",
+    "OCCUPATION",
+    "ADJECTIVE",
+    "ANIMAL",
+    "NOUN",
+    "NOUN(PLURAL)",
+    "RELATIONSHIP",
+    "BODY PART(PLURAL)",
+    "VERB ENDING IN \"ING\"",
+    "NOUN"
+  ],
+  "output": "Smelly {{1}}, smelly {{1}}<br>What are they {{3}} you?<br>Smelly {{1}}, smelly {{1}}<br>It`s not your {{6}}."
+}

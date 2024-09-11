@@ -1,0 +1,32 @@
+{
+  "inputs": [
+    "NUMBER",
+    "COUNTRY",
+    "NOUN",
+    "COUNTRY",
+    "GOVERNMENT POSITION",
+    "MALE NAME",
+    "ADJECTIVE",
+    "OCCUPATION (PLURAL)",
+    "NOUN",
+    "ADJECTIVE",
+    "OCCUPATION (PLURAL)",
+    "ADJECTIVE",
+    "NOUN (PLURAL)",
+    "ADJECTIVE",
+    "SUPERLATIVE (ENDING IN \"EST\")",
+    "NOUN",
+    "FEMALE NAME",
+    "ADJECTIVE",
+    "OCCUPATION",
+    "VERB",
+    "NOUN",
+    "NOUN",
+    "VERB",
+    "ADJECTIVE",
+    "ADJECTIVE",
+    "NOUN (PLURAL)",
+    "PIECE OF LITERATURE"
+  ],
+  "output": "The year is {{1}}, and {{2}}`s {{3}} with {{4}} is History."
+}

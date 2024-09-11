@@ -1,0 +1,18 @@
+{
+  "inputs": [
+    "OCCUPATION",
+    "VERB ENDING IN \"ED\"",
+    "ADJECTIVE",
+    "BODY PART",
+    "NOUN (PLURAL)",
+    "VERB ENDING IN \"ING\"",
+    "VERB ENDING IN \"ING\"",
+    "ADJECTIVE",
+    "VERB",
+    "VERB ENDING IN \"ED\"",
+    "ADJECTIVE",
+    "ADJECTIVE",
+    "VERB ENDING IN \"S\""
+  ],
+  "output": "Like a/an {{1}}<br>{{2}} for the {{3}} first time<br>Like a/an {{1}}<br>When your {{5}} beats<br>Next to mine"
+}

@@ -1,0 +1,19 @@
+{
+  "inputs": [
+    "ADVERB",
+    "NOUN",
+    "LIQUID",
+    "VERB",
+    "NUMBER",
+    "NOUN (PLURAL)",
+    "VERB",
+    "ADJECTIVE",
+    "NOUN",
+    "NOUN (PLURAL)",
+    "ILLNESS",
+    "OCCUPATION",
+    "BODY PART (PLURAL)",
+    "BODY PART"
+  ],
+  "output": "In order to wash your face {{1}}, you must wet your {{2}} in warm {{3}}. Then, {{4}} it across your face {{5}} times. This will wash off any remainig {{6}}. When you are done you should {{7}} the cloth in {{8}} water to clean it. You should also wash your face with a {{9}} to keep it smooth and shiny. This will keep also keep away {{10}}. Don`t worry. It is normal to experience {{11}} the first time you try this. Consult your {{12}} if you break out in {{13}}. This works well on your {{14}} too!"
+}

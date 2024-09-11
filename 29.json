@@ -1,0 +1,28 @@
+{
+  "inputs": [
+    "NOUN (PLURAL)",
+    "NOUN (PLURAL)",
+    "ADJECTIVE",
+    "NOUN (PLURAL)",
+    "NOUN STARTING WITH \"R\" (PLURAL)",
+    "NOUN STARTING WITH \"S\"",
+    "VERB ENDING IN \"ING\"",
+    "ADJECTIVE",
+    "SILLY NAME",
+    "ANIMAL",
+    "VERB ENDING IN \"ING\"",
+    "ADJECTIVE",
+    "SPANISH NAME",
+    "NOUN",
+    "NUMBER",
+    "VERB ENDING IN \"ED\"",
+    "ADJECTIVE",
+    "ADJECTIVE",
+    "OCCUPATION",
+    "NOUN",
+    "GOVERNMENT POSITION",
+    "VERB ENDING IN \"ED\"",
+    "NOUN"
+  ],
+  "output": "Return to a time when men were {{1}} and swamps were {{2}}. {{3}} Swamps, that is. Full of lightning-{{4}} and {{5}} of Unusual {{6}}. Lagoons were inhabited by {{7}} eels. And the most {{8}} woman in the world was named... {{9}}? Well, it`s a bent {{10}} tale. Complete with all the fencing, {{11}}, escapes, and {{12}} accents you`d expect. Including such unique folk as {{13}}, who has dreamt his whole {{14}} of finding the {{15}}-fingered man who {{16}} his father, and his {{17}} sidekick, Fezzig. And don`t forget the {{18}} miracle man, Max. Blonde {{9}} loves Westley, a poor {{20}}. But when he`s captured by {{21}}s, she`s chosen by evil {{22}} Humperdinck to be his princess bride. Along the way, she gets {{23}} by the Dread {{21}} Roberts, the spaniard gets his wish, and Humperdinck turns out to be a {{25}}."
+}

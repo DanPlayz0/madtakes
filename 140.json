@@ -1,0 +1,27 @@
+{
+  "inputs": [
+    "ADJECTIVE",
+    "ADJECTIVE",
+    "COLOR",
+    "COLOR",
+    "ADJECTIVE",
+    "NOUN (PLURAL)",
+    "NUMBER",
+    "NUMBER",
+    "UNIT OF MEASURE (PLURAL)",
+    "ADJECTIVE",
+    "ADJECTIVE",
+    "ADJECTIVE",
+    "VERB",
+    "ADVERB",
+    "NOUN",
+    "NOUN (PLURAL)",
+    "NOUN (PLURAL)",
+    "ADJECTIVE",
+    "NUMBER",
+    "NUMBER",
+    "FOOD",
+    "VERB"
+  ],
+  "output": "{{1}} and {{2}}, {{3}} and {{4}}, bumble bee adults are {{5}} pollinators of a variety of {{6}}. Measuring from {{7}} to {{8}} {{9}} in length, these {{10}} insects make a/an {{11}} {{12}} buzz as they {{13}} somewhat {{14}} from {{15}} to {{15}}. They are important {{17}}."
+}

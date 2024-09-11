@@ -1,0 +1,29 @@
+{
+  "inputs": [
+    "NOUN",
+    "NOUN (PLURAL)",
+    "FRACTION",
+    "NOUN",
+    "ADJECTIVE",
+    "ADJECTIVE",
+    "NOUN (PLURAL)",
+    "SILLY WORD",
+    "TYPE OF BUILDING",
+    "VERB ENDING IN \"ED\"",
+    "LETTER",
+    "NUMBER",
+    "LETTER",
+    "NOUN (PLURAL)",
+    "NOUN",
+    "VERB",
+    "NOUN",
+    "VERB ENDING IN \"ED\"",
+    "GOVERNMENT POSITION",
+    "ADJECTIVE",
+    "NOUN (PLURAL)",
+    "ADJECTIVE",
+    "VERB ENDING IN \"ING\"",
+    "VERB ENDING IN \"ED\""
+  ],
+  "output": "In <i>{{1}} Wars: Return of the {{2}}</i>, the Empire is more than {{3}} of the way through construction of a new Death {{4}} - almost twice as {{5}}, but more than twice as {{6}}. When completed, it will spell certain doom for Luke Skywalker and the {{7}}. Han Solo is a prisoner of crime lord {{8}} the {{9}}, and Princess Leia soon finds herself in the gangster`s hands. Luke Skywalker, {{10}} by C-3PO and {{11}}{{12}}-{{13}}{{12}}, makes his way into the gangster`s palace, hoping to secure his friends` freedom. But the gangster has no intention of doing so and tries to kill them all. After escaping from the gangster and the {{15}} of Tatooine, they regroup with the Rebel fleet, which is massing for an attack against the new satellite battle {{16}} at Endor. Lando Calrissian is pressed into action to lead the Rebel fighter {{17}}, while Han is put in charge of a group of soldiers to take out the {{18}} generator protecting the Death {{4}}. Luke, however, surrenders to Vader`s soldiers on Endor, and is {{20}} in front of Vader`s boss - the Galactic {{21}} - for final corruption to the {{22}} Side of the Force. The fleet of Imperial Star {{23}} ambushes the Rebels, cutting them off. Worse, the new weapon begins turning its {{24}} laser on the Rebels. Meanwhile, Luke battles the {{21}} and is all but defeated, when Vader gives his life in {{26}} him. Han`s group, finally having {{27}} the shield, allows Calrissian`s fleet to accomplish their mission, and all is well in the galaxy."
+}

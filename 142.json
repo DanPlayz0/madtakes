@@ -1,0 +1,17 @@
+{
+  "inputs": [
+    "NOUN (PLURAL)",
+    "ADJECTIVE",
+    "CITY",
+    "NOUN",
+    "VERB",
+    "NOUN",
+    "NAME OF PERSON IN ROOM",
+    "NUMBER",
+    "SILLY WORD",
+    "SILLY WORD",
+    "NOUN",
+    "ADJECTIVE"
+  ],
+  "output": "Flint{{1}}, meet the Flint{{1}}, <br>They`re a modern {{3}} family. <br>From the town of {{4}}, <br>They`re a {{5}} right out of history."
+}

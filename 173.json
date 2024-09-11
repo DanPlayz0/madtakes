@@ -1,0 +1,29 @@
+{
+  "inputs": [
+    "NOUN",
+    "FOOD",
+    "FOOD",
+    "VERB",
+    "ADVERB",
+    "ADJECTIVE",
+    "NOUN (PLURAL)",
+    "COLOR",
+    "VERB",
+    "VERB",
+    "NOUN",
+    "FEMALE NAME",
+    "NOUN (PLURAL)",
+    "NOUN",
+    "NOUN (PLURAL)",
+    "NOUN",
+    "VERB ENDING IN \"S\"",
+    "VERB",
+    "VERB",
+    "NOUN (PLURAL)",
+    "BODY PART",
+    "PLACE",
+    "ADJECTIVE",
+    "ARTICLE OF CLOTHING (PLURAL)"
+  ],
+  "output": "Picture yourself in a {{1}} on a river,<br>With {{2}} trees and {{3}} skies<br>Somebody calls you, you {{4}} quite {{5}},<br>A girl with {{6}} eyes."
+}

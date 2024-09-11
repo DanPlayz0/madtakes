@@ -1,0 +1,22 @@
+{
+  "inputs": [
+    "NUMBER",
+    "SEASON",
+    "ADJECTIVE",
+    "NOUN (PLURAL)",
+    "NOUN",
+    "NOUN",
+    "ADJECTIVE",
+    "ANIMAL",
+    "TYPE OF LIQUID",
+    "NOUN (PLURAL)",
+    "ADJECTIVE",
+    "NUMBER",
+    "ADJECTIVE",
+    "NOUN (PLURAL)",
+    "NOUN",
+    "FCS WORD - Housing Tech",
+    "FCS WORD. HOUSING TECHNOLOGY. (3) WORD. The selection and management of WORD WORD, lighting, and indoor temperature and WORD control. Evaluation of housing types, storage, WORD, zoning, and WORD regulations. WORD conservation, electricity, WORD, plumbing, WORD and refrigeration as they relate to the operation of WORD systems.3.000 Credit HoursWORD Lecture HoursLevels: WORDSchedule Types: LectureCollege of WORD CollegeFamily and WORD Sciences DepartmentCourse Attributes:WORD Tuition"
+  ],
+  "output": "<table align=\"`left`\"><tbody><tr><td align=\"`left`\"><b>FCS {{1}} - Housing Tech</b></td></tr><tr><td align=\"`left`\">FCS {{1}}. HOUSING TECHNOLOGY. (3) {{3}}. The selection and management of {{4}} {{5}}, lighting, and indoor temperature and {{6}} control. Evaluation of housing types, storage, {{7}}, zoning, and {{8}} regulations. {{9}} conservation, electricity, {{10}}, plumbing, {{11}} and refrigeration as they relate to the operation of {{12}} systems."
+}

@@ -1,0 +1,20 @@
+{
+  "inputs": [
+    "VERB",
+    "ADJECTIVE",
+    "NOUN (PLURAL)",
+    "ADJECTIVE",
+    "VERB ENDING IN \"ING\"",
+    "VERB",
+    "NUMBER",
+    "ADJECTIVE",
+    "NOUN (PLURAL)",
+    "NOUN (PLURAL)",
+    "NOUN (PLURAL)",
+    "RELATIVE (PLURAL)",
+    "ADJECTIVE",
+    "ADJECTIVE",
+    "NOUN (PLURAL)"
+  ],
+  "output": "Come {{1}} at WALMART, where you`ll receive {{2}} discounts on all of your favorite brand name {{3}}.  Our {{4}} and {{5}} associates are there to {{6}} you {{7}} hours a day.  Here you will find {{8}} prices on the {{9}} you need.  {{10}} for the moms, {{11}} for the kids and all the latest electronics for the {{12}}.  So come on down to your {{13}} {{14}} WALMART where the {{15}} come first."
+}

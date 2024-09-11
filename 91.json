@@ -1,0 +1,29 @@
+{
+  "inputs": [
+    "ADJECTIVE",
+    "VERB",
+    "NOUN",
+    "ADJECTIVE",
+    "NOUN (PLURAL)",
+    "NOUN",
+    "EVENT (PLURAL)",
+    "VERB",
+    "NOUN (PLURAL)",
+    "ADJECTIVE",
+    "NOUN (PLURAL)",
+    "ANIMAL (PLURAL)",
+    "NOUN",
+    "TYPE OF VEHICLE",
+    "ADJECTIVE",
+    "ADJECTIVE",
+    "VERB",
+    "NOUN (PLURAL)",
+    "COMPANY",
+    "VERB",
+    "NOUN",
+    "VERB",
+    "NOUN (PLURAL)",
+    "NOUN"
+  ],
+  "output": "I am Dr. {{1}}. I am destined to {{2}} the {{3}}.  Unfortunately, the {{3}} is full of a bunch of {{5}} {{6}} that do not agree.  I am sad to say that the {{7}} Buster did not trigger the huge {{8}} as I planned for it to do.  Instead, all it did was {{9}} some {{10}}.  So this is my new {{11}} plan to take over the {{3}}:"
+}

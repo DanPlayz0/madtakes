@@ -1,0 +1,19 @@
+{
+  "inputs": [
+    "ANIMAL (PLURAL)",
+    "NOUN",
+    "NOUN",
+    "NOUN (PLURAL)",
+    "OCCUPATION",
+    "VERB ENDING IN \"ING\"",
+    "ADJECTIVE",
+    "NOUN",
+    "ADJECTIVE",
+    "NOUN (PLURAL)",
+    "VERB ENDING IN \"ED\"",
+    "ADJECTIVE",
+    "ADVERB",
+    "NOUN (PLURAL)"
+  ],
+  "output": "The Care {{1}} live in a {{2}} high in the clouds, where they have a lot of fun together. But they also do care for the {{3}} children on Earth, who they watch through huge {{4}} from the sky, and come to help whenever there is need. Nikolas, a {{5}}`s apprentice, is in danger of {{6}} under the influence of an {{7}} {{8}}, which resides in an {{9}} spell book. The siblings Kim and Jason don`t trust {{10}} anymore after being {{11}} once too often. The Care {{1}} take them into their wonderland where they experience exciting and {{13}} adventures together and {{14}} become good {{15}}."
+}

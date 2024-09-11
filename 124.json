@@ -1,0 +1,18 @@
+{
+  "inputs": [
+    "NOUN",
+    "NOUN",
+    "NOUN(PLURAL)",
+    "NOUN(PLURAL)",
+    "NOUN(PLURAL)",
+    "NOUN",
+    "NOUN",
+    "NOUN",
+    "NOUN",
+    "NOUN",
+    "NOUN",
+    "NOUN",
+    "NOUN(PLURAL)"
+  ],
+  "output": "We broke, broke broke phi broke<br>We ain`t got it<br>Broke, broke, broke phi broke<br>We ain`t got {{1}}<br>Don`t spend no {{2}}<br>Ain`t got no {{3}}<br>Ain`t got no {{4}}<br>Ain`t got no {{5}}<br>We broke, broke, broke phi broke<br>We ain`t got it<br>Broke, broke, broke phi broke<br>We ain`t got it<br>Got no {{6}} got no {{7}}<br>We got no {{8}} got no {{9}}<br>Ain`t got no {{10}} got no {{11}}<br>Can`t get no {{12}}<br>We broke, broke, broke, broke, broke<br>Buncha {{13}}<br>Broke, broke, broke, broke, broke!"
+}

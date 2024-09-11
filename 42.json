@@ -1,0 +1,23 @@
+{
+  "inputs": [
+    "NOUN (PLURAL)",
+    "BODY PART (PLURAL)",
+    "VERB",
+    "VERB",
+    "SPORT",
+    "NOUN (PLURAL)",
+    "ADJECTIVE",
+    "NOUN",
+    "VERB ENDING IN \"ED\"",
+    "ADJECTIVE",
+    "VERB",
+    "NOUN",
+    "ADJECTIVE",
+    "NOUN (PLURAL)",
+    "VERB ENDING IN \"ED\"",
+    "ADJECTIVE",
+    "NUMBER",
+    "NOUN"
+  ],
+  "output": "Friends, Romans, {{1}}, lend me your {{2}}; <br>I come to {{3}} Caesar, not to {{4}} him. <br>The {{5}} that men do lives after them; <br>The good is oft interred with their {{6}}: <br>So let it be with Caesar. The noble Brutus <br>Hath told you Caesar was {{7}}: <br>If it were so, it was a grievous {{8}}; <br>And grievously hath Caesar {{9}} it. <br>Here, under leave of Brutus and the rest,-- <br>For Brutus is a/an {{10}} man; <br>So are they all, all {{10}} men,-- <br>Come I to {{12}} in Caesar`s funeral. <br>He was my {{13}}, faithful and just to me: <br>But Brutus says he was {{7}}; <br>And Brutus is a/an {{10}} man. <br>He hath brought {{16}} captives home to Rome, <br>Whose {{17}} did the general coffers fill: <br>Did this in Caesar seem {{7}}? <br>When that the poor have {{19}}, Caesar hath wept: <br>Ambition should be made of {{20}} stuff: <br>Yet Brutus says he was {{7}}; <br>And Brutus is a/an {{10}} man. <br>You all did see that on the Lupercal <br>I {{23}} time(s) presented him a kingly {{24}}, <br>Which he did {{23}} time(s) refuse: was this ambition? <br>Yet Brutus says he was {{7}}; <br>And, sure, he is a/an {{10}} man. <br>I {{12}} not to disprove what Brutus spoke, <br>But here I am to {{12}} what I do know."
+}

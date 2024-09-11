@@ -1,0 +1,11 @@
+{
+  "inputs": [
+    "SILLY WORD",
+    "ANIMAL",
+    "MUSICAL INSTRUMENT",
+    "NOUN",
+    "ADJECTIVE",
+    "NOUN"
+  ],
+  "output": "Hey, {{1}}, {{1}}! <br>The {{3}} and the {{4}}, <br>The cow jumped over the {{5}}; <br>The {{6}} dog laughed <br>To see such sport, <br>And the {{7}} ran away with the spoon. <br>"
+}

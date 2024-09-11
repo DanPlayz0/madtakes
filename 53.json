@@ -1,0 +1,21 @@
+{
+  "inputs": [
+    "TYPE OF CONTAINER",
+    "NOUN",
+    "ADJECTIVE",
+    "VERB ENDING IN \"S\"",
+    "NUMBER",
+    "VERB ENDING IN \"ED\"",
+    "VERB ENDING IN \"ING\"",
+    "TYPE OF MEASUREMENT(PLURAL)",
+    "ADVERB (ENDS IN \"LY\")",
+    "NOUN (PLURAL)",
+    "EXCLAIMATION",
+    "BODY PART",
+    "ADJECTIVE",
+    "VERB",
+    "NOUN",
+    "VERB"
+  ],
+  "output": "(1) Place unfolded {{1}} in the center of microwave {{2}} with this side up.<br>(2) Pop on High at {{3}} power until {{1}} {{5}} and popping slows to 1-{{6}} seconds between pops.  Listen to popping rate and do not leave microwave {{7}}.  Overcooking may cause {{8}}.  Normal popping time is 2-5 {{9}}.<br>(3) Remove from microvave.  {{10}} open {{1}} at top by pulling diagonally at {{12}}.<br><center><i>{{13}}!<br>Handle {{1}} by top {{12}} only.  Open away from {{16}}.  {{1}} and contents are very {{18}}!  Children should not {{19}} without {{20}} supervision.</i></center><br>(4) {{21}}!"
+}

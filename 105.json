@@ -1,0 +1,31 @@
+{
+  "inputs": [
+    "ADJECTIVE",
+    "ANIMAL",
+    "NOUN (PLURAL)",
+    "NOUN (PLURAL)",
+    "OCCUPATION",
+    "ADVERB",
+    "EVENT",
+    "NOUN (PLURAL)",
+    "NOUN",
+    "NUMBER",
+    "ADJECTIVE",
+    "SCHOOL SUBJECT",
+    "NOUN",
+    "NOUN",
+    "VERB",
+    "ADJECTIVE",
+    "VERB ENDING IN \"ED\"",
+    "ADJECTIVE",
+    "NOUN",
+    "VERB",
+    "BODY PART",
+    "ADJECTIVE",
+    "NOUN (PLURAL)",
+    "VERB",
+    "NOUN (PLURAL)",
+    "FOOD (PLURAL)"
+  ],
+  "output": "I hate Mondays. They are {{1}}, unholy days that never fail to leave me feeling like a {{2}} tortured with table {{3}} by the neighborhood {{4}}."
+}

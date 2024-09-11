@@ -1,0 +1,17 @@
+{
+  "inputs": [
+    "VERB",
+    "NOUN",
+    "ADJECTIVE",
+    "GOVERNMENT POSITION",
+    "HOLIDAY",
+    "OCCUPATION (PLURAL)",
+    "VERB",
+    "TYPE OF CRIME",
+    "VERB",
+    "ADJECTIVE",
+    "NOUN",
+    "NOUN"
+  ],
+  "output": "1. You shall not {{1}} any other {{2}}. <br>2. You shall not make a {{3}} image. <br>3. You shall not take the name of the {{4}} in vain. <br>4. You shall not break the {{5}}. <br>5. You shall not dishonor your {{6}}. <br>6. You shall not {{7}}. <br>7. You shall not commit {{8}}. <br>8. You shall not {{9}}. <br>9. You shall not bear {{10}} witness against thy {{11}}. <br>10. You shall not covet thy neighbor`s {{12}}."
+}

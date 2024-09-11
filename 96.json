@@ -1,0 +1,26 @@
+{
+  "inputs": [
+    "NOUN (PLURAL)",
+    "NOUN",
+    "NOUN (PLURAL)",
+    "ADJECTIVE",
+    "OCCUPATION (PLURAL)",
+    "NOUN (PLURAL)",
+    "ANIMAL (PLURAL)",
+    "ADJECTIVE",
+    "NOUN (PLURAL)",
+    "TYPE OF MATERIAL",
+    "BODY PART (PLURAL)",
+    "VERB ENDING IN \"ED\"",
+    "ADJECTIVE",
+    "NOUN (PLURAL)",
+    "NOUN",
+    "PLACE",
+    "NUMBER",
+    "NOUN",
+    "ADJECTIVE",
+    "NOUN",
+    "NOUN"
+  ],
+  "output": "Woolly mammoths are perhaps the best known {{1}} of the {{2}} Age. Much is known about their appearance because {{3}} have been found preserved in {{4}} ground in Siberia, and wall pictures by stone-age {{5}} can be seen today in ancient European {{6}}. Woolly mammoths grew to about the size of present-day Asiatic {{7}}, possessed {{8}} coats consisting of long, brown guard {{9}} and soft underwool, large curved {{10}} tusks, and knob-like {{11}}."
+}

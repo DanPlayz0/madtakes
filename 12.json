@@ -1,0 +1,19 @@
+{
+  "inputs": [
+    "GIRL`S NAME",
+    "NOUN",
+    "BOY`S NAME",
+    "NOUN",
+    "VERB ENDING IN `S`",
+    "NOUN",
+    "NOUN (PLURAL)",
+    "ANIMAL (PLURAL)",
+    "ANIMAL (PLURAL)",
+    "VERB",
+    "ADJECTIVE",
+    "NOUN",
+    "VERB",
+    "ADJECTIVE"
+  ],
+  "output": "In <i>{{1}}: {{2}} of Time</i> you play {{3}}, a young boy who has no {{4}}. In this adventure, he {{5}} with his trusty {{6}} and many other {{7}} from his inventory. He travels through time working with {{8}} and {{9}} to {{10}} the {{11}} {{12}} and {{13}} {{1}}, the {{15}} princess."
+}

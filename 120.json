@@ -1,0 +1,31 @@
+{
+  "inputs": [
+    "VERB",
+    "ANIMAL",
+    "VERB ENDING IN \"S\"",
+    "VERB",
+    "ADJECTIVE",
+    "VERB",
+    "VERB ENDING IN \"ING\"",
+    "VERB",
+    "VERB ENDING IN \"ED\"",
+    "NUMBER",
+    "NOUN",
+    "VERB",
+    "ANIMAL",
+    "ADJECTIVE",
+    "NOUN (PLURAL)",
+    "NOUN",
+    "VERB",
+    "VERB ENDING IN \"ED\"",
+    "NOUN",
+    "ADJECTIVE",
+    "ANIMAL",
+    "NAME OF PERSON IN ROOM",
+    "VERB ENDING IN \"ING\"",
+    "VERB",
+    "VERB ENDING IN \"ED\"",
+    "NOUN"
+  ],
+  "output": "When I {{1}} yeah I know I`m gonna be<br>I`m gonna be the {{2}} who {{3}} next to you<br>When I go out yeah I know I`m gonna {{4}}<br>I`m gonna {{4}} the {{2}} who goes along with you"
+}

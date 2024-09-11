@@ -1,0 +1,17 @@
+{
+  "inputs": [
+    "NOUN (PLURAL)",
+    "ADJECTIVE",
+    "NOUN (PLURAL)",
+    "VERB",
+    "NOUN",
+    "VERB ENDING IN \"S\"",
+    "ADJECTIVE",
+    "ADJECTIVE",
+    "VERB",
+    "NUMBER",
+    "ANIMAL",
+    "ANIMAL"
+  ],
+  "output": "{{1}} are the most {{2}} {{3}} used by mankind."
+}

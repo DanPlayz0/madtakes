@@ -1,0 +1,25 @@
+{
+  "inputs": [
+    "NOUN",
+    "VERB",
+    "VERB",
+    "ADJECTIVE",
+    "NOUN",
+    "ADJECTIVE",
+    "VERB ENDING IN \"ING\"",
+    "NOUN",
+    "VERB",
+    "NOUN",
+    "NOUN (PLURAL)",
+    "LIQUID",
+    "ADJECTIVE",
+    "NOUN (PLURAL)",
+    "VERB ENDING IN \"S\"",
+    "NAME OF PERSON IN ROOM",
+    "ANIMAL",
+    "FOOD",
+    "ADJECTIVE",
+    "NOUN"
+  ],
+  "output": "Is this a/an {{1}} which I see before me,<br>The handle toward my hand? Come, let me {{2}} thee.<br>I have thee not, and yet I {{3}} thee still.<br>Art thou not, {{4}} vision, sensible<br>To feeling as to {{5}}? Or art thou but<br>A/An {{1}} of the mind, a/an {{7}} creation,<br>{{8}} from the {{9}}-oppressed brain?<br>I see thee yet, in form as palpable<br>As this which now I {{10}}.<br>Thou marshal`st me the way that I was going,<br>And such a/an {{11}} I was to use.<br>Mine eyes are made the {{12}} o` the other senses,<br>Or else worth all the rest. I see thee still, <br>And on thy blade and dudgeon gouts of {{13}},<br>Which was not so before. There`s no such thing:<br>It is the {{14}} business which informs<br>Thus to mine eyes. Now o`er the one half-world<br>Nature seems dead, and wicked {{15}} abuse<br>The curtain`d sleep; witchcraft {{16}}<br>Pale {{17}}`s offerings; and wither`d Murther,<br>Alarum`d by his sentinel, the {{18}},<br>Whose howl`s his watch, thus with his stealthy {{19}},<br>With Tarquin`s {{20}} strides, towards his design<br>Moves like a/an {{21}}..."
+}

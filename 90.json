@@ -1,0 +1,14 @@
+{
+  "inputs": [
+    "PERSON IN ROOM",
+    "PLURAL NOUN",
+    "VERB",
+    "NOUN",
+    "VERB ENDING IN \"ED\"",
+    "VERB ENDING IN \"ING\"",
+    "VERB",
+    "NOUN",
+    "VERB"
+  ],
+  "output": "Jack: Who makes all these?<br>{{1}}: I do, and I practice with them three {{2}} a day.<br>Jack: You need to {{3}} yourself a {{4}}, mate. Or perhaps the reason you practice three {{2}} a day is because you`ve already {{6}} one, and are otherwise incapable of {{7}} said strumpet. You`re not a {{8}}, are you?<br>{{1}}: I practice three {{2}} a day so that when I meet a {{11}}, I can {{12}} it!<br>Jack: Ah."
+}

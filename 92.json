@@ -1,0 +1,29 @@
+{
+  "inputs": [
+    "NOUN (PLURAL)",
+    "NOUN (PLURAL)",
+    "ADJECTIVE",
+    "NOUN",
+    "NOUN",
+    "NOUN",
+    "ADVERB",
+    "VERB",
+    "VERB",
+    "NOUN (PLURAL)",
+    "ADJECTIVE",
+    "VERB ENDING IN \"ING\"",
+    "VERB",
+    "NUMBER",
+    "ADJECTIVE",
+    "VERB ENDING IN \"ING\"",
+    "NOUN",
+    "NOUN",
+    "ADJECTIVE",
+    "ADVERB",
+    "NOUN (PLURAL)",
+    "VERB ENDING IN \"S\"",
+    "SHAPE",
+    "NOUN"
+  ],
+  "output": "Traffic {{1}}, signals, and pavement {{2}} do not always resolve traffic conflicts. A/An {{3}} light, for example, does not resolve the conflict between a/an {{4}} turning left at a/an {{5}} while an oncoming {{4}} is going straight through. The right-of-{{7}} rules help resolve these kinds of conflicts. They tell drivers who goes {{8}} and who must {{9}} in different situations."
+}

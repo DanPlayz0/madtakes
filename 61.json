@@ -1,0 +1,19 @@
+{
+  "inputs": [
+    "ADJECTIVE",
+    "OCCUPATION",
+    "ADJECTIVE",
+    "NOUN",
+    "COLOR",
+    "NUMBER",
+    "FANTASY CREATURE (PLURAL)",
+    "NOUN",
+    "VERB ENDING IN \"S\"",
+    "FOOD",
+    "NOUN",
+    "TYPE OF MATERIAL",
+    "TYPE OF CONTAINER",
+    "NOUN"
+  ],
+  "output": "From the {{1}} fairy tale, a jealous {{2}} attempts to get rid of her {{3}} step-{{4}}, Snow {{5}}, who takes refuge with {{6}} {{7}} in their forest {{8}}. The {{2}} changes into a witch and {{10}} Snow {{5}} with a poisoned {{12}} which puts her into an everlasting {{13}}, until a prince finds her in a {{14}} {{15}} and awakens her with Love`s First {{16}}."
+}

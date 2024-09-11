@@ -1,0 +1,20 @@
+{
+  "inputs": [
+    "VERB ENDING IN \"ED\"",
+    "PLACE",
+    "NOUN",
+    "VERB",
+    "VERB ENDING IN \"ING\"",
+    "NOUN",
+    "VERB ENDING IN \"ED\"",
+    "PLACE",
+    "NUMBER",
+    "PLACE",
+    "NOUN",
+    "NUMBER",
+    "NAME OF PERSON IN ROOM",
+    "NUMBER",
+    "NUMBER"
+  ],
+  "output": "Once apon a time, there {{1}} in {{2}} a man named {{3}}. He was the {{4}} guy. He could {{4}} the night away. but then one day he got into an accident and lost the ability to {{4}} ever again. He was {{7}} when it happened. A {{8}} came out of nowhere and {{9}} him. He was in {{10}} for {{11}} month(s) to recover. Then he went to {{12}} to become the first ever {{13}}. But after {{14}} week(s) he was fired. He met {{15}}. They then got married. {{16}} day(s) later they adopted  {{17}} kid(s)."
+}

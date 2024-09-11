@@ -1,0 +1,20 @@
+{
+  "inputs": [
+    "NOUN",
+    "NOUN",
+    "ADJECTIVE",
+    "NOUN",
+    "NOUN",
+    "NOUN",
+    "VERB ENDING IN \"S\"",
+    "NUMBER",
+    "NOUN",
+    "PREPOSITION  (UNDER, OVER, AROUND, ETC.)",
+    "PERSON OR BEING",
+    "ADJECTIVE",
+    "NOUN (PLURAL)",
+    "NOUN (PLURAL)",
+    "GROUP NOUN  (EVERYONE, FRAGGLES, ETC.)"
+  ],
+  "output": "I pledge {{1}} to the {{2}} of the {{3}} {{4}} of {{5}}, and to the {{6}} for which it {{7}}, {{8}} {{9}}(s), {{10}} {{11}}, {{12}}, with {{13}} and {{14}} for {{15}}."
+}

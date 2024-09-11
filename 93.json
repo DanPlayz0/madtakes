@@ -1,0 +1,14 @@
+{
+  "inputs": [
+    "VERB",
+    "VERB ENDING IN \"ING\"",
+    "NOUN",
+    "ADJECTIVE",
+    "OCCUPATION",
+    "ANIMAL",
+    "ADJECTIVE",
+    "VERB ENDING IN \"ING\"",
+    "NOUN"
+  ],
+  "output": "\"My name is {{1}}; learn it well, for it`s the {{2}} sound of your {{3}}.\""
+}

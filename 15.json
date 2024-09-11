@@ -1,0 +1,18 @@
+{
+  "inputs": [
+    "NOUN",
+    "EMOTION",
+    "GIRL`S NAME",
+    "BAD GUY NAME",
+    "LETTER",
+    "LETTER",
+    "NUMBER",
+    "NOUN (PLURAL)",
+    "OCCUPATION",
+    "GUY`S NAME",
+    "VERB",
+    "NOUN",
+    "NOUN"
+  ],
+  "output": "In the film <i>{{1}} Wars: A New {{2}}</i>, Princess {{3}} sends out a call for help right before she gets captured by {{4}}. The call reached {{5}}{{6}}-{{7}} through a teenager named Luke and two {{8}}. Luke finds out that he is a/an {{9}} and joins up with {{10}}. Together they {{11}} the princess. At the end of the film, Luke destroys the death {{12}} while {{10}} covers his {{14}}."
+}

@@ -1,0 +1,10 @@
+{
+  "inputs": [
+    "ADJECTIVE",
+    "NOUN",
+    "NOUN (PLURAL)",
+    "NOUN",
+    "VERB ENDING IN \"ED\""
+  ],
+  "output": "There was an {{1}} woman who lived in a/an {{2}}. <br>She had so many {{3}} she didn`t know what to do. <br>She gave them some broth without any {{4}}. <br>She {{5}} them all soundly and put them to bed."
+}

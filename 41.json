@@ -1,0 +1,15 @@
+{
+  "inputs": [
+    "NOUN",
+    "PLACE",
+    "NOUN",
+    "NOUN",
+    "NOUN (PLURAL)",
+    "VERB ENDING IN \"ED\"",
+    "VERB ENDING IN \"ING\"",
+    "ADJECTIVE",
+    "NOUN",
+    "ADJECTIVE"
+  ],
+  "output": "This {{1}} is your {{1}}, this {{1}} is my {{1}} <br>From {{5}}, to the New York {{6}} <br>From the {{7}} forest, to the gulf stream {{8}} <br>This {{1}} was {{10}} for you and me <br> <br>As I was {{11}} a ribbon of highway <br>I saw above me an {{12}} {{13}}-way <br>I saw below me a {{14}} valley <br>This {{1}} was {{10}} for you and me <br>"
+}

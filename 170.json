@@ -1,0 +1,20 @@
+{
+  "inputs": [
+    "ADJECTIVE",
+    "VERB",
+    "MALE IN ROOM",
+    "CITY",
+    "NOUN",
+    "BODY PART (PLURAL)",
+    "OCCUPATION",
+    "ADJECTIVE",
+    "OCCUPATION",
+    "NOUN",
+    "ADVERB",
+    "VERB",
+    "BODY PART",
+    "NOUN",
+    "NUMBER"
+  ],
+  "output": "After {{1}} years in exile for a crime he didn`t {{2}}, {{3}} now Sweeney Todd, returns to {{4}} to find his {{5}} dead and his daughter in the {{6}} of the evil {{7}} Turpin. In his anger, Sweeney goes on a {{8}} rampage on all {{4}}, with the help of Mrs. Lovett, he opens a {{10}} shop in which he lures his victims in with a charming {{11}} before {{12}} ending their life with a {{13}} of his razor across their {{14}}. But not one {{15}} killed, nor {{16}} men can satisfy Sweeney`s lust for revenge on those who`ve caused his years of pain."
+}

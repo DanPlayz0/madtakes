@@ -1,0 +1,22 @@
+{
+  "inputs": [
+    "NAME OF PERSON IN THE ROOM",
+    "ADJECTIVE",
+    "NOUN",
+    "ADVERB",
+    "NOUN",
+    "VERB",
+    "VERB ENDING IN \"ING\"",
+    "ADJECTIVE",
+    "NOUN (PLURAL)",
+    "VERB ENDING IN \"ING\"",
+    "ADJECTIVE",
+    "ADVERB",
+    "PHONE NUMBER WITH AREA CODE",
+    "ADJECTIVE",
+    "ADVERB",
+    "NAME OF ANOTHER PERSON IN ROOM",
+    "ADJECTIVE"
+  ],
+  "output": "Dear {{1}}:"
+}

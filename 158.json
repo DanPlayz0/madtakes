@@ -1,0 +1,26 @@
+{
+  "inputs": [
+    "ADJECTIVE",
+    "VERB",
+    "VERB",
+    "VERB",
+    "ADJECTIVE",
+    "ADJECTIVE",
+    "NOUN",
+    "NOUN",
+    "VERB",
+    "PLURAL NOUN",
+    "VERB",
+    "ADJECTIVE",
+    "ADVERB",
+    "ADJECTIVE",
+    "NOUN (PLURAL)",
+    "VERB",
+    "VERB",
+    "NOUN (PLURAL)",
+    "NOUN",
+    "VERB ENDING IN \"ING\"",
+    "ADJECTIVE"
+  ],
+  "output": "It`s been a {{1}} time since I rock and rolled, <br>It`s been a {{1}} time since I did the {{3}}. <br>Ooh, let me {{4}} it back, let me {{4}} it back, <br>Let me {{4}} it back, baby, where I {{7}} from. <br>It`s been a {{8}} time, been a {{8}} time, <br>Been a {{8}} lonely, lonely, lonely, lonely, lonely time. Yes it has."
+}

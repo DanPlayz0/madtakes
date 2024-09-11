@@ -1,0 +1,16 @@
+{
+  "inputs": [
+    "NOUN",
+    "VERB",
+    "NUMBER",
+    "ADJECTIVE",
+    "NOUN (PLURAL)",
+    "NOUN",
+    "ADJECTIVE",
+    "NOUN (PLURAL)",
+    "ADVERB (ENDS IN \"LY\")",
+    "VERB",
+    "NOUN"
+  ],
+  "output": "When you provide a {{1}}, you {{2}} us either to use information from your {{1}} to make a {{4}}-time {{5}} {{6}} transfer from your account or to process this transaction as a {{7}}.  When we use your {{1}} to make an {{9}} {{6}} transfer, {{11}} may be withdrawn from your account {{12}}, and you may not {{13}} your {{1}} back from your {{15}} institution."
+}
